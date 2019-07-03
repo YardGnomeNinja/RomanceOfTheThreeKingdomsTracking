@@ -1,0 +1,358 @@
+YEAR/MONTH/DAY
+	Location - (nearby map names)
+		"Book text" - (chapter, page(s))
+
+NOTE: This is 100% based the C.H. Brewitt Taylor translation of the "Romance of the Three Kingdoms"
+		historical novel attributed to author Luo Guanzhong and suspected to have been written sometime between 1300AD and 1400AD.
+		The novel is itself based on "Records of the Three Kingdoms" written by Chen Shou sometime between 263AD and 280AD.
+		The novelization ("Romance") takes certain liberties with its source material, including oral history and legend. After all, 50 to 100
+		years passed between the actual events and those written in "Records" and more than 1000 years between "Records" and "Romance".
+		From my limited research, "Records" does not detail movement quite as granularly as "Romance". My assumption is that the
+		novelization attempts to "fill in the blanks" of "Records", this also assuming the author of "Romance" didn't have access to
+		more granular documentation of troop movements, etc, if such things ever existed.
+		As such, this work is not to be mistaken for an accurate historical account of character movements, but rather an attempt at
+		supplementing a work of historical fiction to give fans another resource for immersion and understanding.
+
+NOTE: Locations are listed in the order mentioned in the book, unless otherwise noted.
+
+NOTE: Characters are assumed to be in the last known location until otherwise noted.
+
+NOTE: There are 5 Chinese seasons which correspond (maybe?) as such:
+	Spring - March through June
+	Summer - June and July
+	Late Summer - August
+	Autumn - September through November
+	Winter - December through February
+-------------------------------------------------------------------------------------------
+
+==========================================
+CHAPTER 1 ================================
+==========================================
+
+<= 184/1/1
+	NOTE: This is the best guess for the beginning state of things.
+			Ancient Chinese Emperors and family generally do not leave the capital at any point in their lives without extraordinary exception. 
+			Eunichs are assumed near the Emperor unless otherwise noted.
+			Characters, including royal family, not introduced within relative reading proximity are intentionally unaccounted to avoid assuming too much.
+	Luoyang (Capital)
+		Cao Jie - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Cheng Kuang - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Duan Gui - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Feng Xu - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Guo Shengg - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Emperor Ling - (1, 1-7)
+		Hou Lan - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Jian Shuo - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Xia Yun - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Zhang Rang - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Zhao Zhong - Eunich of "Ten Regular Attendants" - (1, 1-7)
+
+184-189/?/?
+	Youzhou - (You Zhou / Fan Yang)
+		"Youzhou the northeastern region of the empire" - (1,10-11)
+			Liu Yan - Imperial Protector of Youzhou - (1,11)
+			Zhang Ba - Yellow Turban Leader - "Lord of Earth" - (1,10)
+			Zhang Lian - Yellow Turban Leader - "Lord of Human" - (1,10)
+			Zhang Jue - Yellow Turban Leader - "Lord of Heaven" - (1,10)
+			Zhou Jing - Youzhou Commander - (1,11)
+
+184-189/?/?
+	Zhuo County / Chief city of Zhuo - (You Zhou / Fan Yang)
+		"One of these notices was posted up in the county of Zhuo, where lived one man of high spirit." - (1,11) - (You Zhou / Fan Yang)
+		"The family (Liu Bei's) home was in a village near the chief city of Zhuo." - (1,12) - (You Zhou / Fan Yang)
+			Guan Yu - - (1,14)
+			Liu Bei - - (1,12)
+			Zhang Fei - - (1,13)
+
+184-189/?/(next day)
+	Zhang Fei's Farm / Peach Garden - ? - I assume not far from Liu Bei's family home in Zhuo County
+		"Then Liu Bei told Guan Yu his own intentions, and all three went away to Zhang Fei’s farm where they could talk over the grand project." - (1,14)
+			Guan Yu - - (1,14)
+			Liu Bei - - (1,14)
+			Zhang Fei - - (1,14)
+
+184-189/?/?
+	Youzhou - (You Zhou / Fan Yang)
+		"the troop, now five hundred strong, marched to Commander Zhou Jing, who presented them to Imperial Protector Liu Yan" - (1,16)
+			Guan Yu - - (1,16)
+			Liu Yan - Imperial Protector of Youzhou - (1,16)
+			Liu Bei - - (1,16)
+			Zhang Fei - - (1,16)
+			Zhou Jing - Youzhou Commander - (1,16)
+
+184-189/?/?
+	Daxing Hills - (Speculated to have been located between Julu County and Zhuozhuo, Heibei, south of Youzhou) - (1,17) - https://en.wiktionary.org/wiki/%E5%A4%A7%E8%88%88%E5%B1%B1
+		"a Yellow Scarves chieftain, Cheng Yuanzhi, had invaded the region" - (1,17)
+		"Liu Yan bade Zhou Jing and the three brothers to go out to oppose them with the five hundred troops. Liu Bei joyfully undertook to lead the van and marched to the foot of the Daxing Hills where they saw the rebels" - (1,17)
+		"Their leader Cheng Yuanzhi, full of rage, sent out one general, Deng Mao, to begin the battle." - (1,17)
+		"At once rode forward Zhang Fei, his serpent halberd poised to strike. One thrust and Deng Mao rolled off his horse, pierced through the heart." - (1,17)
+		"But Guan Yu swung up his ponderous green-dragon saber and rode at Cheng Yuanzhi. At the sight, fear seized upon Cheng Yuanzhi, and before he could defend himself, the great saber fell, cutting him in halves." - (1,17)
+			Cheng Yuanzhi - Yellow Turban "cheiftan" (killed by Guan Yu) - (1,17)
+			Deng Mao - Yellow Turban general (killed by Zhang Fei) - (1,17)
+			Guan Yu - - (1,17)
+			Liu Bei - - (1,17)
+			Zhang Fei - - (1,17)
+			Zhou Jing - Youzhou Commander - (1,17)
+
+184-189/?/?
+	Youzhou - (You Zhou / Fan Yang)	
+		"On their return, Liu Yan personally met them and distributed rewards."
+			Guan Yu - - (1,19)
+			Liu Yan - Imperial Protector of Youzhou - (1,19)
+			Liu Bei - - (1,19)
+			Zhang Fei - - (1,19)
+			Zhou Jing - Youzhou Commander - (1,19)
+
+184-189/?/(next day)	
+	Qingzhou Region / Qingzhou City - (Qing Zhou / Lin Zi) - https://en.wikipedia.org/wiki/Qing_Province
+		"But the next day, letters came from Imperial Protector Gong Jing of Qingzhou Region saying that the rebels were laying siege to the chief city and it was near falling." - (1,19)
+		"“I will go,” said Liu Bei as soon as he heard the news." - (1,19)
+		"And he set out at once with his own soldiers, reinforced by a body of five thousand under Zhou Jing." - (1,19)
+		"Under three-side attack, the rebels lost heavily and fled to the walls of Qingzhou City. But Imperial Protector Gong Jing led out an armed body to attack them, and the rebels were entirely defeated and many slain." - (1,19-20)
+			Gong Jing - Imperial Protector of Qingzhou Region - (1,20)
+			Guan Yu - - (1,19)
+			Liu Bei - - (1,19)
+			Zhang Fei - - (1,19)
+			Zhou Jing - Youzhou Commander - (1,19)
+
+184-189/?/?
+	Guangzong - (Guang Zong)
+		"But Liu Bei said, “We are informed that Imperial Commander Lu Zhi has been struggling with a horde of rebels led by Zhang Jue at Guangzong." - (1,20)
+		"So Liu Bei and Zhou Jing separated, and the three brothers with their troops made their way to Guangzong. They found Lu Zhi’s camp, were admitted to his presence, and declared the reason of their coming" - (1,20)
+			Guan Yu - - (1,20)
+			Liu Bei - - (1,20)
+			Lu Zhi - Imperial Commander of Guangzong - (1,20)
+			Zhang Fei - - (1,20)
+			Zhang Jue - Yellow Turban Leader - "Lord of Heaven" - (1,20)
+
+BETWEEN 184-189/?/? Guangzong - (Guang Zong) AND 184-189/?/? "Halfway between Yingchuan and Guangzong"
+	Guangzong - (Guang Zong)
+		Lu Zhi - Imperial Commander of Guangzong - (1,20 & 25)
+		Zhuo Feng - Eunich - (1,25)
+
+184-189/?/?
+	Yingchuan / Changshe - (Yin Chuang / Chang She / Xu Chang)
+		"Lu Zhi said to Liu Bei, “I am able to surround these rebels here. But the other two brothers, Zhang Ba and Zhang Lian, are strongly entrenched opposite Huangfu Song and Zhu Jun at Yingchuan."
+		"At that time the imperial troops were attacking with success, and the rebels had retired upon Changshe." - (1,19)
+			Huangfu Song - - (1,20)
+			Zhang Ba - Yellow Turban Leader - "Lord of Earth" - (1,20)
+			Zhang Lian - Yellow Turban Leader - "Lord of Human" - (1,20)
+			Zhu Jun - - (1,20)
+
+184-189/?/(next day)
+	Changshe - (Yin Chuang / Chang She / Xu Chang)
+		"The battle continued until dawn." - (1,20)
+		"He was Cao Cao, a Beijuo man, holding the rank of Cavalry Commander."  - (1,20)
+		"However, Zhang Ba and Zhang Lian got away; and after an interview with Huangfu Song, Cao Cao went in pursuit of them." - (1,24)
+		"Meanwhile Liu Bei and his brothers were hastening toward Yingchuan, when they heard the din of battle and saw flames rising high toward the sky. But they arrived too late for the fighting." - (1,24)
+			Cao Cao - - (1,20)
+			Guan Yu - - (1,20)
+			Huangfu Song - - (1,20)
+			Liu Bei - - (1,20)
+			Zhang Ba - Yellow Turban Leader - "Lord of Earth" - (1,20)
+			Zhang Fei - - (1,20)
+			Zhang Lian - Yellow Turban Leader - "Lord of Human" - (1,20)
+			Zhu Jun - - (1,20)
+
+184-189/?/?
+	"Halfway between Yingchuan and Guangzong" - (Wei Jun?)
+		"“but they will surely make for Guangzong to join Zhang Jue. You can do nothing better than hasten back.”" - (1,24)
+		"The three brothers thus retraced their steps." - (1,24)
+		"Half way along the road they met a party of soldiers escorting a prisoner in a cage-cart." - (1,24)
+		"When they drew near, they saw the prisoner was no other than Lu Zhi" - (1,24)
+			Guan Yu - - (1,20)
+			Liu Bei - - (1,20)
+			Lu Zhi - Imperial Commander of Guangzong - (1,20)
+			Zhang Fei - - (1,20)
+
+184-189/?/(2 or more days)
+	"Somewhere between 'Halfway between Yingchuan and Guangzong' and Zhou" - Guangzong? - (Guang Zong?)
+		"It was useless to continue on that road to Guangzong, so Guan Yu proposed to go back to Zhuo, and they retook the road. Two days later they heard the thunder of battle behind some hills." - (1,24)
+		"Zhang Jue had worsted Dong Zhuo and was following up his advantage." - (1,24)
+			Dong Zhuo - - (1,24)
+			Guan Yu - - (1,24)
+			Liu Bei - - (1,24)			
+			Zhang Jue - Yellow Turban Leader - "Lord of Heaven" - (1,24)
+			Zhang Fei - - (1,24)
+
+
+
+==========================================
+CHAPTER 2 ================================
+==========================================
+
+184-189/?/(? - next day)
+	Yangcheng? - (South of "Bao Zhou Dong Zun")
+		"Wherefore all three set out and lost no time in traveling until they came to Zhu Jun, who received them well and accepted their aid in attacking Zhang Ba." - (2,27)
+		"Wounded though he was, Zhang Ba got away into the city of Yangcheng, where he fortified himself and was besieged by Zhu Jun." - (2,30)
+			Gao Sheng - Yellow Turban General - (2,27)
+			Guan Yu - - (2,27)
+			Liu Bei - - (2,27)		
+			Zhang Ba - Yellow Turban Leader - "Lord of Earth" - (2,27)
+			Zhang Fei - - (2,27)
+			Zhu Jun - - (2,27)
+
+184-189/?/(before next)
+	Quyang - (Gao Yang? / Ren Qiu? / He Jian?)
+		"Zhang Jue had died before Huangfu Song’s arrival." - (2,30)
+			Zhang Jue - Yellow Turban Leader (died, unknown) - "Lord of Heaven" - (2,27)
+
+184-189/?/?
+	Quyang - (Gao Yang? / Ren Qiu? / He Jian?)
+		"At this time Cao Cao had joined himself to Huangfu Song, and they were trying to destroy Zhang Lian, and there was a great battle at Quyang." - (2,27)
+		"Zhang Lian had added his brother’s army to his own... And Zhang Lian was slain at Quyang." - (2,30)
+			Cao Cao - - (2,27)
+			Huangfu Song - - (2,27)
+			Zhang Lian - Yellow Turban Leader (killed in battle) - "Lord of Human" - (2,27)
+
+184-189/?/(sometime after previous)
+	Jinan - (Qi Nan? / Tai Shan? / Tai An? / SW of Qing Zhou / Lin Zi)
+		"Cao Cao also received advancement for his services and is preparing to go to Jinan to his new post.” - (2,32)
+
+184-189/?/?
+	Yangcheng? - (South of "Bao Zhou Dong Zun")
+		"Zhu Jun pressed harder yet upon Yangcheng, and the approaching break-up of the rebellion became evident. Then one of Zhang Ba’s officers, Yan Zheng, killed his leader" - (2,32)
+			Yan Zheng - Officer under Zhang Ba - (2,30)
+			Zhang Ba - Yellow Turban Leader (killed by Yan Zheng) - "Lord of Earth" - (2,30)
+			Zhu Jun - - (2,30)
+
+184-189/?/?
+	Wancheng - (Lu Jiang / Wan Cheng / South of Huai Nan / Shou Chun / Yang Zhou)
+		"Three other rebels, Zhao Hong, Han Zhong, and Sun Zhong, gathered some thirty thousand rebels and began to murder and rob and burn" - (2,32)
+		"Zhu Jun to lead his veteran and successful troops to destroy the rebels. He at once marched toward the city of Wancheng which the rebels were holding" - (2,32)
+		"Zhu Jun sent Liu Bei and his brothers to attack the southwest corner of the city." - (2,32)
+			Guan Yu -  - (2,32)
+			Han Zhong - Yellow Turban Remnant "Avenger of Master Zhang Jue" (killed in battle) - (2,32)
+			Liu Bei - - (2,32)
+			Sun Zhong - Yellow Turban Remnant "Avenger of Master Zhang Jue" - (2,32)
+			Zhang Fei - - (2,32)
+			Zhao Hong - Yellow Turban Remnant "Avenger of Master Zhang Jue" - (2,32)
+			Zhu Jun - - (2,32)
+
+184-189/?/(next day?)
+	Wancheng - (Lu Jiang / Wan Cheng / South of Huai Nan / Shou Chun / Yang Zhou)
+		"Zhu Jun encamped three miles from the city and prepared to attack" - (2,35)
+		"Just then there arrived a body of horse and foot from the east... His name was Sun Jian" - (2,35)
+			Guan Yu -  - (2,32)
+			Liu Bei - - (2,32)
+			Sun Jian - - (2,35)
+			Sun Zhong - Yellow Turban Remnant "Avenger of Master Zhang Jue" (killed by Liu Bei?) - (2,36)
+			Zhang Fei - - (2,32)
+			Zhao Hong - Yellow Turban Remnant "Avenger of Master Zhang Jue" (killed by Sun Jian?) - (2,36)
+			Zhu Jun - - (2,32)
+
+184-189/?/?
+	Luoyang
+		"Zhu Jun returned to Capital Luoyang" - (2,36)
+			Zhu Jun - - (2,36)
+
+184-189/?/?
+	Changsha - (Chang Sha / Ling Xiang / SE of Jing Zhou / Nan Jun / SW of Jian Xia)
+		"Sun Jian, having influential friends and connections to support him, quickly got an appointment to a post of Commander of Changsha and went to assume the new office" - (2,37)
+			Sun Jian - - (2,37)
+
+184-189/?/?
+	Luoyang
+		"Walking along one day in the capital, Liu Bei met a court official, Zhang Jun," - (2,37)
+		"Zhang Jun was much surprised at this neglect and one day at court spoke to the Emperor about it." - (2,37)
+		"But the eunuchs fiercely opposed this and said Zhang Jun was insulting the Emperor" - (2,37)
+			Cao Jie - Eunich of "Ten Regular Attendants" - (2,37)
+			Cheng Kuang - Eunich of "Ten Regular Attendants" - (2,37)
+			Duan Gui - Eunich of "Ten Regular Attendants" - (2,37)
+			Feng Xu - Eunich of "Ten Regular Attendants" - (2,37)
+			Guan Yu -  - (2,37)
+			Guo Shengg - Eunich of "Ten Regular Attendants" - (2,37)
+			Emperor Ling - (2,37)
+			Hou Lan - Eunich of "Ten Regular Attendants" - (2,37)
+			Jian Shuo - Eunich of "Ten Regular Attendants" - (2,37)
+			Liu Bei - - (2,37)
+			Xia Yun - Eunich of "Ten Regular Attendants" - (2,37)
+			Zhang Fei - - (2,37)
+			Zhang Jun - - (2,37)
+			Zhang Rang - Eunich of "Ten Regular Attendants" - (2,37)
+			Zhao Zhong - Eunich of "Ten Regular Attendants" - (2,37)
+
+184-189/?/?
+	Anxi County - (An Xi / NW of Yi Zhou / Xin Du)
+		"Among them was Liu Bei, who received the post of magistrate of the county of Anxi, to which he proceeded without delay" - (2,37)
+			Guan Yu -  - (2,37)
+			Liu Bei - - (2,37)
+			Zhang Fei - - (2,37)
+
+184-189/(4 months later)/?
+	Anxi County - (An Xi / NW of Yi Zhou / Xin Du)
+		"In due course the inspecting official, Du Biao by name, arrived and was met at the boundary" - (2,38)
+			Du Biao -  - (2,38)
+			Guan Yu -  - (2,38)
+			Liu Bei - - (2,38)
+			Zhang Fei - - (2,38)
+
+184-189/?/?
+	Dingzhou - (He Jian / Bo Ling)
+		"The inspector went to the governor of Dingzhou" - (2,40)
+			Du Biao -  - (2,40)
+
+184-189/?/?		
+	Daizhou - (East of An Xi / West of He Jian)
+		"but they got away to Daizhou and sought refuge with Liu Hu" - (2,41)
+			Guan Yu -  - (2,41)
+			Liu Bei - - (2,41)
+			Liu Hu - - (2,41)
+			Zhang Fei - - (2,41)
+
+184-189/?/?
+	Changsha - (Chang Sha / Ling Xiang / SE of Jing Zhou / Nan Jun / SW of Jian Xia)
+		"Rebellions broke out in Changsha led by Ou Xing" - (2,41)
+			Ou Xing - - (2,41)
+
+184/?/?
+	Yuyang - (An Xi / Zhong Shan Guo)
+		"Rebellions broke out in Changsha led by Ou Xing, and in Yuyang led by Zhang Ju and Zhang Chun" - (2,41)
+			Zhang Chun - Rebellion Leader - (2,41)
+			Zhang Ju - Rebellion Leader - (2,41)
+
+184-189/?/?
+	Luoyang
+		"One day the Emperor was at a feast in one of the gardens with the Ten, when Court Counselor Liu Tao suddenly appeared" - (2,41)
+		"It was the Minister of the Interior, Chen Dan." - (2,42)
+			Chen Dan - Minister of the Interior (killed for speaking against the "Ten Regular Attendants") - (2,42)
+			Emperor Ling - (2,41)
+			Liu Tao - Counselor (killed for speaking against the "Ten Regular Attendants") - (2,41)
+			"Ten Regular Attendants" - (2,42)
+
+184-189/(sometime during next 2 months)/?
+	Changsha - (Chang Sha / Ling Xiang / SE of Jing Zhou / Nan Jun / SW of Jian Xia)
+		"Then the eunuchs sent a forged edict to Sun Jian making him Governor of Changsha, with orders to suppress the rebellion of Ou Xing." - (2,43)
+		"In less than two months Sun Jian reported the county all tranquil." - (2,43)
+			Ou Xing - - (2,43)
+			Sun Jian - - (2,43)
+
+184-189/?/?
+	Youzhou - (You Zhou / Fan Yang)
+		"Liu Yu was made Imperial Protector of Youzhou to move against Yuyang and suppress Zhang Ju and Zhang Chun" - (2,43)
+			Liu Yu - - (2,43)
+
+184-189/?/?
+	Youzhou - (You Zhou / Fan Yang)
+		"Liu Yu welcomed Liu Bei and gave him rank of commander and sent him against the rebels" - (2,43)
+			Guan Yu - - (2,43)
+			Liu Bei - - (2,43)
+			Liu Yu - - (2,43)
+			Zhang Fei - - (2,43)
+
+184-189/?/?
+	Yuyang - (An Xi / Zhong Shan Guo)
+		"Liu Yu welcomed Liu Bei and gave him rank of commander and sent him against the rebels." - (2,43)
+			Guan Yu - - (2,43)
+			Liu Bei - - (2,43)
+			Zhang Chun - Rebellion Leader (killed by on of his officers) - (2,43)
+			Zhang Fei - - (2,43)
+			Zhang Ju - Rebellion Leader (killed himself after defeat) - (2,43)
+
+184-189/?/?
+	Pingyuan - (S of De Zhou / SE of Yi Zhou / Xin Du)
+		"Gongsun Zan praised Liu Bei’s former services, and he was promoted to Magistrate of Pingyuan." - (2,44)
+		"This place was very prosperous, and Liu Bei recovered something of his old manner" - (2,44)
+			Guan Yu - - (2,44)
+			Liu Bei - - (2,44)
+			Zhang Fei - - (2,44)

@@ -1,0 +1,1456 @@
+YEAR/MONTH/DAY
+	Location - (nearby map names)
+		"Book text" - (chapter, page(s))
+
+NOTE: This is 100% based on the C.H. Brewitt Taylor translation of the "Romance of the Three Kingdoms" (referenced pdf included)
+		historical novel attributed to author Luo Guanzhong and suspected to have been written sometime between 1300AD and 1400AD.
+		The novel is itself based on "Records of the Three Kingdoms" written by Chen Shou sometime between 263AD and 280AD.
+		The novelization ("Romance") takes certain liberties with its source material, including oral history and legend. After all, 50 to 100
+		years passed between the actual events and those written in "Records" and more than 1000 years between "Records" and "Romance".
+		From my limited research, "Records" does not detail movement quite as granularly as "Romance". My assumption is that the
+		novelization attempts to "fill in the blanks" of "Records", this also assuming the author of "Romance" didn't have access to
+		more granular documentation of troop movements, etc, if such things ever existed.
+		As such, this work is not to be mistaken for an accurate historical account of character movements, but rather an attempt at
+		supplementing a work of historical fiction to give fans another resource for immersion and understanding. When possible, any
+		available documentation on historical events will be used to fill in blanks in dates and will be referenced as such.
+
+NOTE: Locations are listed in the order mentioned in the book, unless a "logical assumption" was made or otherwise noted.
+
+NOTE: Characters are usually assumed to follow their leader, or be in the last known location, until otherwise noted.
+
+NOTE: There are 5 Chinese seasons which correspond (maybe?) as such:
+	Spring - March through June
+	Summer - June and July
+	Late Summer - August
+	Autumn - September through November
+	Winter - December through February
+
+NOTE: Watch times (assuming based on Roman system due to lack of sources for ancient China) https://sites.google.com/site/dilucinum/home/roman-references-to-watches
+	First 	- 6PM - 9PM
+	Second 	- 9PM - 12AM
+	Third 	- 12AM - 3AM
+	Fourth	- 3AM - 6AM
+	
+Valuable reference: https://en.wikipedia.org/wiki/List_of_fictitious_stories_in_Romance_of_the_Three_Kingdoms
+-------------------------------------------------------------------------------------------
+
+<= 184/1/1
+	NOTE: This is the best guess for the beginning state of things.
+			Ancient Chinese Emperors and family generally do not leave the capital at any point in their lives without extraordinary exception. 
+			Eunichs are assumed near the Emperor unless otherwise noted.
+			Characters, including royal family, not introduced within relative reading proximity are intentionally unaccounted to avoid assuming too much.
+	Luoyang (Capital)
+		Cao Jie - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Cheng Kuang - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Duan Gui - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Feng Xu - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Guo Shengg - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Emperor Ling - (1, 1-7)
+		Hou Lan - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Jian Shuo - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Xia Yun - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Zhang Rang - Eunich of "Ten Regular Attendants" - (1, 1-7)
+		Zhao Zhong - Eunich of "Ten Regular Attendants" - (1, 1-7)
+
+184-189/?/?
+	Youzhou - (You Zhou / Fan Yang)
+		"Youzhou the northeastern region of the empire" - (1,10-11)
+			Liu Yan - Imperial Protector of Youzhou - (1,11)
+			Zhang Ba - Yellow Turban Leader - "Lord of Earth" - (1,10)
+			Zhang Lian - Yellow Turban Leader - "Lord of Human" - (1,10)
+			Zhang Jue - Yellow Turban Leader - "Lord of Heaven" - (1,10)
+			Zhou Jing - Youzhou Commander - (1,11)
+
+184-189/?/?
+	Zhuo County / Chief city of Zhuo - (You Zhou / Fan Yang)
+		"One of these notices was posted up in the county of Zhuo, where lived one man of high spirit." - (1,11) - (You Zhou / Fan Yang)
+		"The family (Liu Bei's) home was in a village near the chief city of Zhuo." - (1,12) - (You Zhou / Fan Yang)
+			Guan Yu - - (1,14)
+			Liu Bei - - (1,12)
+			Zhang Fei - - (1,13)
+
+184-189/?/(next day)
+	Zhang Fei's Farm / Peach Garden - ? - I assume not far from Liu Bei's family home in Zhuo County
+		"Then Liu Bei told Guan Yu his own intentions, and all three went away to Zhang Fei’s farm where they could talk over the grand project." - (1,14)
+			Guan Yu - - (1,14)
+			Liu Bei - - (1,14)
+			Zhang Fei - - (1,14)
+
+184-189/?/?
+	Youzhou - (You Zhou / Fan Yang)
+		"the troop, now five hundred strong, marched to Commander Zhou Jing, who presented them to Imperial Protector Liu Yan" - (1,16)
+			Guan Yu - - (1,16)
+			Liu Yan - Imperial Protector of Youzhou - (1,16)
+			Liu Bei - - (1,16)
+			Zhang Fei - - (1,16)
+			Zhou Jing - Youzhou Commander - (1,16)
+
+184-189/?/?
+	Daxing Hills - (Speculated to have been located between Julu County and Zhuozhuo, Heibei, south of Youzhou) - (1,17) - https://en.wiktionary.org/wiki/%E5%A4%A7%E8%88%88%E5%B1%B1
+		"a Yellow Scarves chieftain, Cheng Yuanzhi, had invaded the region" - (1,17)
+		"Liu Yan bade Zhou Jing and the three brothers to go out to oppose them with the five hundred troops. Liu Bei joyfully undertook to lead the van and marched to the foot of the Daxing Hills where they saw the rebels" - (1,17)
+		"Their leader Cheng Yuanzhi, full of rage, sent out one general, Deng Mao, to begin the battle." - (1,17)
+		"At once rode forward Zhang Fei, his serpent halberd poised to strike. One thrust and Deng Mao rolled off his horse, pierced through the heart." - (1,17)
+		"But Guan Yu swung up his ponderous green-dragon saber and rode at Cheng Yuanzhi. At the sight, fear seized upon Cheng Yuanzhi, and before he could defend himself, the great saber fell, cutting him in halves." - (1,17)
+			Cheng Yuanzhi - Yellow Turban "cheiftan" (killed by Guan Yu) - (1,17)
+			Deng Mao - Yellow Turban general (killed by Zhang Fei) - (1,17)
+			Guan Yu - - (1,17)
+			Liu Bei - - (1,17)
+			Zhang Fei - - (1,17)
+			Zhou Jing - Youzhou Commander - (1,17)
+
+184-189/?/?
+	Youzhou - (You Zhou / Fan Yang)	
+		"On their return, Liu Yan personally met them and distributed rewards."
+			Guan Yu - - (1,19)
+			Liu Yan - Imperial Protector of Youzhou - (1,19)
+			Liu Bei - - (1,19)
+			Zhang Fei - - (1,19)
+			Zhou Jing - Youzhou Commander - (1,19)
+
+184-189/?/(next day)	
+	Qingzhou Region / Qingzhou City - (Qing Zhou / Lin Zi) - https://en.wikipedia.org/wiki/Qing_Province
+		"But the next day, letters came from Imperial Protector Gong Jing of Qingzhou Region saying that the rebels were laying siege to the chief city and it was near falling." - (1,19)
+		"“I will go,” said Liu Bei as soon as he heard the news." - (1,19)
+		"And he set out at once with his own soldiers, reinforced by a body of five thousand under Zhou Jing." - (1,19)
+		"Under three-side attack, the rebels lost heavily and fled to the walls of Qingzhou City. But Imperial Protector Gong Jing led out an armed body to attack them, and the rebels were entirely defeated and many slain." - (1,19-20)
+			Gong Jing - Imperial Protector of Qingzhou Region - (1,20)
+			Guan Yu - - (1,19)
+			Liu Bei - - (1,19)
+			Zhang Fei - - (1,19)
+			Zhou Jing - Youzhou Commander - (1,19)
+
+184-189/?/?
+	Guangzong - (Guang Zong)
+		"But Liu Bei said, “We are informed that Imperial Commander Lu Zhi has been struggling with a horde of rebels led by Zhang Jue at Guangzong." - (1,20)
+		"So Liu Bei and Zhou Jing separated, and the three brothers with their troops made their way to Guangzong. They found Lu Zhi’s camp, were admitted to his presence, and declared the reason of their coming" - (1,20)
+			Guan Yu - - (1,20)
+			Liu Bei - - (1,20)
+			Lu Zhi - Imperial Commander of Guangzong - (1,20)
+			Zhang Fei - - (1,20)
+			Zhang Jue - Yellow Turban Leader - "Lord of Heaven" - (1,20)
+
+BETWEEN 184-189/?/? Guangzong - (Guang Zong) AND 184-189/?/? "Halfway between Yingchuan and Guangzong"
+	Guangzong - (Guang Zong)
+		Lu Zhi - Imperial Commander of Guangzong - (1,20 & 25)
+		Zhuo Feng - Eunich - (1,25)
+
+184-189/?/?
+	Yingchuan / Changshe - (Yin Chuang / Chang She / Xu Chang)
+		"Lu Zhi said to Liu Bei, “I am able to surround these rebels here. But the other two brothers, Zhang Ba and Zhang Lian, are strongly entrenched opposite Huangfu Song and Zhu Jun at Yingchuan."
+		"At that time the imperial troops were attacking with success, and the rebels had retired upon Changshe." - (1,19)
+			Huangfu Song - - (1,20)
+			Zhang Ba - Yellow Turban Leader - "Lord of Earth" - (1,20)
+			Zhang Lian - Yellow Turban Leader - "Lord of Human" - (1,20)
+			Zhu Jun - - (1,20)
+
+184-189/?/(next day)
+	Changshe - (Yin Chuang / Chang She / Xu Chang)
+		"The battle continued until dawn." - (1,20)
+		"He was Cao Cao, a Beijuo man, holding the rank of Cavalry Commander."  - (1,20)
+		"However, Zhang Ba and Zhang Lian got away; and after an interview with Huangfu Song, Cao Cao went in pursuit of them." - (1,24)
+		"Meanwhile Liu Bei and his brothers were hastening toward Yingchuan, when they heard the din of battle and saw flames rising high toward the sky. But they arrived too late for the fighting." - (1,24)
+			Cao Cao - - (1,20)
+			Guan Yu - - (1,20)
+			Huangfu Song - - (1,20)
+			Liu Bei - - (1,20)
+			Zhang Ba - Yellow Turban Leader - "Lord of Earth" - (1,20)
+			Zhang Fei - - (1,20)
+			Zhang Lian - Yellow Turban Leader - "Lord of Human" - (1,20)
+			Zhu Jun - - (1,20)
+
+184-189/?/?
+	"Halfway between Yingchuan and Guangzong" - (Wei Jun?)
+		"“but they will surely make for Guangzong to join Zhang Jue. You can do nothing better than hasten back.”" - (1,24)
+		"The three brothers thus retraced their steps." - (1,24)
+		"Half way along the road they met a party of soldiers escorting a prisoner in a cage-cart." - (1,24)
+		"When they drew near, they saw the prisoner was no other than Lu Zhi" - (1,24)
+			Guan Yu - - (1,20)
+			Liu Bei - - (1,20)
+			Lu Zhi - Imperial Commander of Guangzong - (1,20)
+			Zhang Fei - - (1,20)
+
+184-189/?/(2 or more days)
+	"Somewhere between 'Halfway between Yingchuan and Guangzong' and Zhou" - Guangzong? - (Guang Zong?)
+		"It was useless to continue on that road to Guangzong, so Guan Yu proposed to go back to Zhuo, and they retook the road. Two days later they heard the thunder of battle behind some hills." - (1,24)
+		"Zhang Jue had worsted Dong Zhuo and was following up his advantage." - (1,24)
+			Dong Zhuo - - (1,24)
+			Guan Yu - - (1,24)
+			Liu Bei - - (1,24)			
+			Zhang Jue - Yellow Turban Leader - "Lord of Heaven" - (1,24)
+			Zhang Fei - - (1,24)
+
+184-189/?/(? - next day)
+	Yangcheng? - (South of "Bao Zhou Dong Zun")
+		"Wherefore all three set out and lost no time in traveling until they came to Zhu Jun, who received them well and accepted their aid in attacking Zhang Ba." - (2,27)
+		"Wounded though he was, Zhang Ba got away into the city of Yangcheng, where he fortified himself and was besieged by Zhu Jun." - (2,30)
+			Gao Sheng - Yellow Turban General - (2,27)
+			Guan Yu - - (2,27)
+			Liu Bei - - (2,27)		
+			Zhang Ba - Yellow Turban Leader - "Lord of Earth" - (2,27)
+			Zhang Fei - - (2,27)
+			Zhu Jun - - (2,27)
+
+184-189/?/(before next)
+	Quyang - (Gao Yang? / Ren Qiu? / He Jian?)
+		"Zhang Jue had died before Huangfu Song’s arrival." - (2,30)
+			Zhang Jue - Yellow Turban Leader (died, unknown) - "Lord of Heaven" - (2,27)
+
+184-189/?/?
+	Quyang - (Gao Yang? / Ren Qiu? / He Jian?)
+		"At this time Cao Cao had joined himself to Huangfu Song, and they were trying to destroy Zhang Lian, and there was a great battle at Quyang." - (2,27)
+		"Zhang Lian had added his brother’s army to his own... And Zhang Lian was slain at Quyang." - (2,30)
+			Cao Cao - - (2,27)
+			Huangfu Song - - (2,27)
+			Zhang Lian - Yellow Turban Leader (killed in battle) - "Lord of Human" - (2,27)
+
+184-189/?/(sometime after previous)
+	Jinan - (Qi Nan? / Tai Shan? / Tai An? / SW of Qing Zhou / Lin Zi)
+		"Cao Cao also received advancement for his services and is preparing to go to Jinan to his new post.” - (2,32)
+
+184-189/?/?
+	Yangcheng? - (South of "Bao Zhou Dong Zun")
+		"Zhu Jun pressed harder yet upon Yangcheng, and the approaching break-up of the rebellion became evident. Then one of Zhang Ba’s officers, Yan Zheng, killed his leader" - (2,32)
+			Yan Zheng - Officer under Zhang Ba - (2,30)
+			Zhang Ba - Yellow Turban Leader (killed by Yan Zheng) - "Lord of Earth" - (2,30)
+			Zhu Jun - - (2,30)
+
+184-189/?/?
+	Wancheng - (Lu Jiang / Wan Cheng / South of Huai Nan / Shou Chun / Yang Zhou)
+		"Three other rebels, Zhao Hong, Han Zhong, and Sun Zhong, gathered some thirty thousand rebels and began to murder and rob and burn" - (2,32)
+		"Zhu Jun to lead his veteran and successful troops to destroy the rebels. He at once marched toward the city of Wancheng which the rebels were holding" - (2,32)
+		"Zhu Jun sent Liu Bei and his brothers to attack the southwest corner of the city." - (2,32)
+			Guan Yu -  - (2,32)
+			Han Zhong - Yellow Turban Remnant "Avenger of Master Zhang Jue" (killed in battle) - (2,32)
+			Liu Bei - - (2,32)
+			Sun Zhong - Yellow Turban Remnant "Avenger of Master Zhang Jue" - (2,32)
+			Zhang Fei - - (2,32)
+			Zhao Hong - Yellow Turban Remnant "Avenger of Master Zhang Jue" - (2,32)
+			Zhu Jun - - (2,32)
+
+184-189/?/(next day?)
+	Wancheng - (Lu Jiang / Wan Cheng / South of Huai Nan / Shou Chun / Yang Zhou)
+		"Zhu Jun encamped three miles from the city and prepared to attack" - (2,35)
+		"Just then there arrived a body of horse and foot from the east... His name was Sun Jian" - (2,35)
+			Guan Yu -  - (2,32)
+			Liu Bei - - (2,32)
+			Sun Jian - - (2,35)
+			Sun Zhong - Yellow Turban Remnant "Avenger of Master Zhang Jue" (killed by Liu Bei?) - (2,36)
+			Zhang Fei - - (2,32)
+			Zhao Hong - Yellow Turban Remnant "Avenger of Master Zhang Jue" (killed by Sun Jian?) - (2,36)
+			Zhu Jun - - (2,32)
+
+184-189/?/?
+	Luoyang
+		"Zhu Jun returned to Capital Luoyang" - (2,36)
+			Zhu Jun - - (2,36)
+
+184-189/?/?
+	Changsha - (Chang Sha / Ling Xiang / SE of Jing Zhou / Nan Jun / SW of Jian Xia)
+		"Sun Jian, having influential friends and connections to support him, quickly got an appointment to a post of Commander of Changsha and went to assume the new office" - (2,37)
+			Sun Jian - - (2,37)
+
+184-189/?/?
+	Luoyang
+		"Walking along one day in the capital, Liu Bei met a court official, Zhang Jun," - (2,37)
+		"Zhang Jun was much surprised at this neglect and one day at court spoke to the Emperor about it." - (2,37)
+		"But the eunuchs fiercely opposed this and said Zhang Jun was insulting the Emperor" - (2,37)
+			Cao Jie - Eunich of "Ten Regular Attendants" - (2,37)
+			Cheng Kuang - Eunich of "Ten Regular Attendants" - (2,37)
+			Duan Gui - Eunich of "Ten Regular Attendants" - (2,37)
+			Feng Xu - Eunich of "Ten Regular Attendants" - (2,37)
+			Guan Yu -  - (2,37)
+			Guo Shengg - Eunich of "Ten Regular Attendants" - (2,37)
+			Emperor Ling - (2,37)
+			Hou Lan - Eunich of "Ten Regular Attendants" - (2,37)
+			Jian Shuo - Eunich of "Ten Regular Attendants" - (2,37)
+			Liu Bei - - (2,37)
+			Xia Yun - Eunich of "Ten Regular Attendants" - (2,37)
+			Zhang Fei - - (2,37)
+			Zhang Jun - - (2,37)
+			Zhang Rang - Eunich of "Ten Regular Attendants" - (2,37)
+			Zhao Zhong - Eunich of "Ten Regular Attendants" - (2,37)
+
+184-189/?/?
+	Anxi County - (An Xi / NW of Yi Zhou / Xin Du)
+		"Among them was Liu Bei, who received the post of magistrate of the county of Anxi, to which he proceeded without delay" - (2,37)
+			Guan Yu -  - (2,37)
+			Liu Bei - - (2,37)
+			Zhang Fei - - (2,37)
+
+184-189/(4 months later)/?
+	Anxi County - (An Xi / NW of Yi Zhou / Xin Du)
+		"In due course the inspecting official, Du Biao by name, arrived and was met at the boundary" - (2,38)
+			Du Biao -  - (2,38)
+			Guan Yu -  - (2,38)
+			Liu Bei - - (2,38)
+			Zhang Fei - - (2,38)
+
+184-189/?/?
+	Dingzhou - (He Jian / Bo Ling)
+		"The inspector went to the governor of Dingzhou" - (2,40)
+			Du Biao -  - (2,40)
+
+184-189/?/?		
+	Daizhou - (East of An Xi / West of He Jian)
+		"but they got away to Daizhou and sought refuge with Liu Hu" - (2,41)
+			Guan Yu -  - (2,41)
+			Liu Bei - - (2,41)
+			Liu Hu - - (2,41)
+			Zhang Fei - - (2,41)
+
+184-189/?/?
+	Changsha - (Chang Sha / Ling Xiang / SE of Jing Zhou / Nan Jun / SW of Jian Xia)
+		"Rebellions broke out in Changsha led by Ou Xing" - (2,41)
+			Ou Xing - - (2,41)
+
+184/?/?
+	Yuyang - (An Xi / Zhong Shan Guo)
+		"Rebellions broke out in Changsha led by Ou Xing, and in Yuyang led by Zhang Ju and Zhang Chun" - (2,41)
+			Zhang Chun - Rebellion Leader - (2,41)
+			Zhang Ju - Rebellion Leader - (2,41)
+
+184-189/?/?
+	Luoyang
+		"One day the Emperor was at a feast in one of the gardens with the Ten, when Court Counselor Liu Tao suddenly appeared" - (2,41)
+		"It was the Minister of the Interior, Chen Dan." - (2,42)
+			Chen Dan - Minister of the Interior (killed for speaking against the "Ten Regular Attendants") - (2,42)
+			Emperor Ling - (2,41)
+			Liu Tao - Counselor (killed for speaking against the "Ten Regular Attendants") - (2,41)
+			"Ten Regular Attendants" - (2,42)
+
+184-189/(sometime during next 2 months)/?
+	Changsha - (Chang Sha / Ling Xiang / SE of Jing Zhou / Nan Jun / SW of Jian Xia)
+		"Then the eunuchs sent a forged edict to Sun Jian making him Governor of Changsha, with orders to suppress the rebellion of Ou Xing." - (2,43)
+		"In less than two months Sun Jian reported the county all tranquil." - (2,43)
+			Ou Xing - - (2,43)
+			Sun Jian - - (2,43)
+
+184-189/?/?
+	Youzhou - (You Zhou / Fan Yang)
+		"Liu Yu was made Imperial Protector of Youzhou to move against Yuyang and suppress Zhang Ju and Zhang Chun" - (2,43)
+			Liu Yu - - (2,43)
+
+184-189/?/?
+	Youzhou - (You Zhou / Fan Yang)
+		"Liu Yu welcomed Liu Bei and gave him rank of commander and sent him against the rebels" - (2,43)
+			Guan Yu - - (2,43)
+			Liu Bei - - (2,43)
+			Liu Yu - - (2,43)
+			Zhang Fei - - (2,43)
+
+184-189/?/?
+	Yuyang - (An Xi / Zhong Shan Guo)
+		"Liu Yu welcomed Liu Bei and gave him rank of commander and sent him against the rebels." - (2,43)
+			Guan Yu - - (2,43)
+			Liu Bei - - (2,43)
+			Zhang Chun - Rebellion Leader (killed by on of his officers) - (2,43)
+			Zhang Fei - - (2,43)
+			Zhang Ju - Rebellion Leader (killed himself after defeat) - (2,43)
+
+184-189/?/?
+	Pingyuan - (S of De Zhou / SE of Yi Zhou / Xin Du)
+		"Gongsun Zan praised Liu Bei’s former services, and he was promoted to Magistrate of Pingyuan." - (2,44)
+		"This place was very prosperous, and Liu Bei recovered something of his old manner" - (2,44)
+			Guan Yu - - (2,44)
+			Liu Bei - - (2,44)
+			Zhang Fei - - (2,44)
+
+=========================================================================================================
+
+189/6-7?/? - Summer (2,44)
+	Luoyang
+		"In the summer of the six year of Central Stability (AD 189), Emperor Ling became seriously ill and summoned He Jin into the Palace" - (2,44)
+		"at the very gate of the Forbidden City, He Jin was warned of his danger by Commander Pan Yin" - (2,46)
+		"He Jin eyed down and saw General of Military Standards Cao Cao." - (2,46)
+		"The energetic speaker was Yuan Shao" - (2,47)
+		"He Jin, supported by He Yong, Xun You, Zheng Tai, and more than thirty other ministers and high-rank officials, went into the Palace." - (2,47)
+		"where he was discovered and murdered by Guo Sheng" - (2,47)
+		"But Zhang Rang and the eunuchs of the Ten scented the danger and rushed to see Empress He." - (2,47)
+		"sent large gifts to He Jin’s younger brother, He Miao, and his mother, Lady Wuyang" - (2,50)
+			Cao Cao - - (2,46)
+			Cao Jie - Eunich of "Ten Regular Attendants" - (2,47)
+			Cheng Kuang - Eunich of "Ten Regular Attendants" - (2,47)
+			Duan Gui - Eunich of "Ten Regular Attendants" - (2,47)
+			Emperor Ling - birth son of Liu Chang, adopted by Emperor Huan since he had no son of his own (died) - (2,44)
+			Empress Dong - mother of Emperor Ling, raised Liu Xian - (2,44)
+			Empress He - wife of Emperor Ling - (2,44)
+			Feng Xu - Eunich of "Ten Regular Attendants" - (2,47)
+			Guo Sheng - Eunich of "Ten Regular Attendants" - (2,47)
+			He Jin - Regent Marshal, brother of Empress He - (2,44)
+			He Miao - He Jin's younger brother - (2,50)
+			He Yong -  - (2,47)
+			Hou Lan - Eunich of "Ten Regular Attendants" - (2,47)
+			Jian Shuo - Eunich of "Ten Regular Attendants" (killed by Guo Sheng) - (2,44)
+			Lady Wuyang - Mother of He Miao - (2,50)
+			Liu Bian - son of Emperor Ling and the sister of He Jin, Empress He - (2,44)
+			Liu Xian - son of Emperor Ling and concubine, Lady Wang (poisoned by Empress He previously) - (2,44)
+			Pan Yin - Commander - (2,44)
+			Xia Yun - Eunich of "Ten Regular Attendants" - (2,47)
+			Xun You -  - (2,47)
+			Yuan Shao - - (2,47)
+			Zhang Rang - Eunich of "Ten Regular Attendants" - (2,47)
+			Zhao Zhong - Eunich of "Ten Regular Attendants" - (2,47)
+			Zheng Tai -  - (2,47)
+
+189/6-7?/(3 days later) - Summer (2,44)
+	Luoyang
+		"a strong guard was placed about the Imperial Uncle Dong Chong’s dwelling. They took away his seal of office and he, knowing this was the end, killed himself" - (2,50)
+			Dong Chong - "Imperial Uncle" related to Empress Dong (suicide) - (2,50)
+			
+189/6-7?/(sometime later still) - Summer (2,44)
+	Hejian - (N of Yi Zhou / S of You Zhou)
+		"She is to be removed into her original fief of Hejian and is to depart immediately.”" - (2,50)
+		"In the sixth month of that year [ed. is that June?], the secret emissaries of He Jin poisoned Empress Dong in her residence in the country." - (2,50)
+			Empress Dong - mother of Emperor Ling, raised Liu Xian (poisoned by He Jin spies) - (2,50)
+
+189/6-7?/(likely between Dong Chong's suicide and Empress Dong's arrival at Hejian) - Summer (2,44)
+	Luoyang
+		"But Secretary Chen Lin objected" - (2,51)
+			Chen Lin - Secretary - (2,51)
+
+
+==========================================
+CHAPTER 3 ================================
+==========================================
+
+189/6-7+/?
+	Xizhou - (NW of Chang An / S of Bei Di / N of Jin Yang)
+		"But Dong Zhuo was treacherous and disloyal at heart. So when he received the summons to the capital, he rejoiced greatly and lost no
+			time in obeying it. He left a son-in-law, Commander Niu Fu, to look after the affairs of Xizhou and set out for Luoyang." - (3,53)
+		"Dong Zhuo took with him a huge army and four generals---Li Jue, Guo Si, Zhang Ji, and Fan Chou." - (3,53)
+		"Dong Zhuo’s adviser and son-in-law, Li Ru," - (3,53)
+			Dong Zhuo - - (3,53)
+			Fan Chou - Dong Zhuo's General - (3,53)
+			Guo Si - Dong Zhuo's General - (3,53)
+			Li Jue - Dong Zhuo's General - (3,53)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (3,53)
+			Niu Fu - Dong Zhuo's son-in-law - (3,53)
+			Zhang Ji - Dong Zhuo's General - (3,53)
+
+189/6-7+/? - (Dong Zhuo letter received in Luoyang) - (3,54)
+	Luoyang
+		"He Jin read this memorial and showed it to his partisans. Then said Minister Zheng Tai," - (3,54)
+		"But Lu Zhi also said" - (3,54)
+			He Jin - Regent Marshal, brother of Empress He - (3,54)
+			Lu Zhi - Imperial Commander of Guangzong? - (3,54)
+			Zheng Tai - Minister (leaves Luoyang afterward?) - (3,54)
+
+189/6-7+/?
+	Shengchi Lake - (assuming near Shen Chi / W of Luoyang)
+		"Dong Zhuo, who soon camped at Shengchi Lake" - (3,55)
+			Dong Zhuo - - (3,55)
+			Fan Chou - Dong Zhuo's General - (3,55)
+			Guo Si - Dong Zhuo's General - (3,55)
+			Li Jue - Dong Zhuo's General - (3,55)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (3,55)
+			Zhang Ji - Dong Zhuo's General - (3,55)
+
+189/6-7+/?
+	Luoyang
+		"Zhang Rang and the eunuchs knew this move was directed against them ... where the Empress lived" - (3,55)
+		"He Jin was just going to her when Secretary Chen Lin advised him not to enter," - (3,56)
+		"“Our plot is no longer a secret,” said Yuan Shao" - (3,56)
+		"“Get the eunuchs out first!” said Cao Cao." - (3,56)
+		"Whereupon both Yuan Shao and Cao Cao chose five hundred best men under their command, at whose head they placed Yuan Shu, a brother of Yuan Shao." - (3,57)
+		"Then one of He Jin’s generals, Wu Kuang, set fire to the gate." - (3,59)
+		"Zhang Rang carried off the Empress, Emperor Bian, and Prince Xian of Chenliu" - (3,59)
+		"General Wu Kuang burst into one of the inner halls where he found He Miao" - (3,59)
+		"Lu Zhi, since he had resigned office, was at home" - (3,59)
+			Cao Cao - - (3,56)
+			Cao Jie - Eunich of "Ten Regular Attendants" - (3,55)
+			Chen Lin - Secretary - (3,54)
+			Cheng Kuang - Eunich of "Ten Regular Attendants" (killed by Yuan Shao and Cao Cao) - (3,55)
+			Duan Gui - Eunich of "Ten Regular Attendants" - (3,55)
+			Emperor Liu Bian - son of Emperor Ling and the sister of He Jin, Empress He - (3,59)
+			Empress He - wife of Emperor Ling - (3,55)
+			Feng Xu - Eunich of "Ten Regular Attendants" - (3,55)
+			Guo Sheng - Eunich of "Ten Regular Attendants" (killed by Yuan Shao and Cao Cao) - (3,55)
+			He Jin - Regent Marshal, brother of Empress He (murdered by assassin at behest of "Ten Regular Attendants") - (3,56)
+			He Miao - He Jin's younger brother (killed by Wu Kuang and others) - (3,59)
+			Hou Lan - Eunich of "Ten Regular Attendants" - (3,55)
+			Lu Zhi - Imperial Commander of Guangzong? - (3,59)
+			Prince Liu Xian - son of Emperor Ling and concubine, Lady Wang (poisoned by Empress He previously) - (3,59)
+			Wu Kuang - He Jin's General - (3,59)
+			Xia Yun - Eunich of "Ten Regular Attendants" (killed by Yuan Shao and Cao Cao) - (3,55)
+			Yuan Shao - - (3,56)
+			Yuan Shu - - (3,57)
+			Zhang Rang - Eunich of "Ten Regular Attendants" - (3,55)
+			Zhao Zhong - Eunich of "Ten Regular Attendants" (killed by Yuan Shao and Cao Cao) - (3,55)
+
+189/6-7+/(next day 12AM to 3AM)
+	Beimang Hills - (an ancient royal graveyard dating back to the Zhou dynasty, and was located near Luoyang)
+		"Meanwhile, Zhang Rang and Duan Gui had hustled away the Emperor and the Prince. They burst through the smoke
+			and fire and traveled without stopping till they reached the Beimang Hills. It was then the third watch." - (3,60)
+		"They heard a great shouting behind them and saw soldiers in pursuit. Their leader, Min Gong, a commander in Henan," - (3,60)
+			Emperor Liu Bian - son of Emperor Ling and the sister of He Jin, Empress He - (3,60)
+			Duan Gui - Eunich of "Ten Regular Attendants" (killed by Duan Gui) - (3,60)
+			Min Gong - Commander in Henan - (3,60)
+			Prince Liu Xian - son of Emperor Ling and concubine, Lady Wang (poisoned by Empress He previously) - (3,60)
+			Zhang Rang - Eunich of "Ten Regular Attendants" (jumped into the river and drown) - (3,60)
+
+189/6-7+/(likely later the same day)
+	Farmhouse - ?
+		"They walked till their feet were too sore to go further, when, seeing a heap of
+			straw near the road, they crept to it and lay down. This heap of straw was close to a farm house." - (3,60)
+		"The farmer bowed again and again and said, “My name is Sui Lie. My brother Sui Yi is the former Minister of the Interior" - (3,61)
+		"Presently he came to the farm" - (3,62)
+			Emperor Liu Bian - - (3,60)
+			Min Gong - Commander in Henan - (3,62)
+			Prince Liu Xian - - (3,60)
+			Sui Lie - brother of Sui Yi the former Minister of the Interior - (3,60)
+			
+189/6-7+/(likely later the same day)
+	Road to Luoyang
+		"Not beyond one mile from the farm" - (3,62)
+		"The cavalcade had not proceeded far when they saw coming towards them a large body of soldiers" - (3,62)
+			Bao Xin - Commander of the Rear Army - (3,62)
+			Chunyu Qiong - Commander of the Left Army - (3,62)
+			Dong Zhuo - Imperial Protector of Xizhou Region- (3,63)
+			Emperor Liu Bian - - (3,60)
+			Min Gong - Commander in Henan - (3,62)
+			Prince Liu Xian - - (3,60)
+			Wang Yun - Minister of the Interior - (3,62)
+			Yang Biao - Grand Commander - (3,62)
+			Yuan Shao - Commander of the Center Army - (3,62)
+			Zhao Meng - Commander of the Right Army - (3,62)
+
+189/6-7+/(same day)
+	Luoyang
+		"They reached the Palace the same day, and there was an affecting interview with Empress He."- (3,64)
+			Bao Xin - Commander of the Rear Army - (3,62)
+			Chunyu Qiong - Commander of the Left Army - (3,62)
+			Dong Zhuo - Imperial Protector of Xizhou Region - (3,63)
+			Emperor Liu Bian - - (3,60)
+			Empress He - - (3,64)
+			Min Gong - Commander in Henan - (3,62)
+			Prince Liu Xian - - (3,60)
+			Wang Yun - Minister of the Interior - (3,62)
+			Yang Biao - Grand Commander - (3,62)
+			Yuan Shao - Commander of the Center Army - (3,62)
+			Zhao Meng - Commander of the Right Army - (3,62)
+
+189/6-7+/?
+	Taishan Mountains - (SW of Qing Zhou / Lin Zi)
+		"Bao Xin said no more but he left the capital and retired to the Taishan Mountains"
+			Bao Xin - - (3,64)
+			
+189/6-7+/?
+	Luoyang
+		"Dong Zhuo induced the soldiers of the two brothers He Jin and He Miao to join his command, and privately spoke to his adviser Li Ru" - (3,64)
+		"The speaker was Ding Yuan, Imperial Protector of Bingzhou." - (3,66)
+		"Li Ru had noticed standing behind Ding Yuan a particularly dangerous looking henchman of his, 
+			who was now handling his halberd threateningly" - (3,66)
+		"“You are mistaken, Illustrious Sir,” said Lu Zhi" - (3,66)
+		"said Court Counselors Cai Yong and Peng Bo." - (3,68)
+		"Then said Wang Yun" - (3,68)
+		"“That is Lu Bu, the adopted son of Ding Yuan. You must keep out of his way, my lord.”" - (3,68)
+			Cai Yong - Court Counselor - (3,68)
+			Ding Yuan - Imperial Protector of Bingzhou - (3,66)
+			Dong Zhuo - Imperial Protector of Xizhou Region - (3,64)
+			He Jin - - (3,64)
+			He Miao - - (3,64)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (3,64)
+			Lu Bu - adopted son of Ding Yuan - (3,68)
+			Lu Zhi - Minister - (3,66)
+			Peng Bo - Court Counselor - (3,68)
+			Wang Yun - - (3,68)
+			
+189/6-7+/(next day)
+	Luoyang
+		"Dong Zhuo went inside the gate so that he could not be seen. But next day they reported to him that Ding Yuan had 
+			come out of the city with a small army and was challenging to a battle" - (3,68)
+		"Lu Bu was a conspicuous figure in the forefront." - (3,68)
+			Ding Yuan - Imperial Protector of Bingzhou - (3,68)
+			Dong Zhuo - Imperial Protector of Xizhou Region - (3,68)
+			Lu Bu - adopted son of Ding Yuan - (3,68)
+
+189/6-7+/(likely same day)
+	Dong Zhuo's camp - 10 miles from Luoyang
+		"The battle went in Ding Yuan’s favor, and the beaten troops retired ten miles and made another camp.
+			Here Dong Zhuo called his officers to a council." - (3,70)
+		"It was Li Su, a general in the Imperial Tiger Army" - (3,70)
+		"to his adviser Li Ru." - (3,70)
+			Dong Zhuo - Imperial Protector of Xizhou Region - (3,70)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (3,70)
+			Li Su - General in the Imperial Tiger Army - (3,70)
+			Red Hare - legendary horse - (3,70)
+
+189/6-7+/?
+	Ding Yuan's Camp - (assuming near Luoyang)
+		"Red Hare---and these accompanied Li Su on his visit to his fellow villager. Li Su reached the camp" - (3,70)
+		"“How long it is since we last saw each other!” replied Lu Bu" - (3,71)
+			Ding Yuan - Imperial Protector of Bingzhou (murdered by Lu Bu) - (3,74)
+			Lu Bu - adopted son of Ding Yuan - (3,71)
+			Li Su - General in the Imperial Tiger Army - (3,70)
+			Red Hare - legendary horse (assumed to be with Lu Bu until otherwise noted) - (3,70)
+
+189/6-7+/?
+	Dong Zhuo's camp - 10 miles from Luoyang
+		"Next day, with the head of the murdered man as his gift, Lu Bu betook himself to Li Su, who led him to Dong Zhuo." - (3,74)
+			Dong Zhuo - - (3,74)
+			Lu Bu - - (3,74)
+			Li Su - General in the Imperial Tiger Army - (3,74)
+	
+189/6-7+/?
+	Luoyang
+		"The now all-powerful Dong Zhuo prepared a banquet in the capital at which all the officers of state were guests. He
+			also bade Lu Bu post a company of armed men right and left ready for action." - (3,74)
+		"but Yuan Shao who said" - (3,75)
+			Dong Zhuo - - (3,74)
+			Lu Bu - - (3,74)
+			Yuan Shao - - (3,74)
+
+==========================================
+CHAPTER 4 ================================
+==========================================
+
+189/6-7+/?
+	Luoyang
+		"Dong Zhuo was on the point of slaying Yuan Shao, but Li Ru checked him," - (4,77)
+		"Dong Zhuo said to Imperial Guardian Yuan Wei" - (4,77)
+		"Dong Zhuo asked Counselor Zhou Bi and Commander Wu Qiong" - (4,77)
+			Dong Zhuo - - (4,77)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (4,77)
+			Wu Qiong - Commander - (4,77)
+			Yuan Shao - - (4,77)
+			Yuan Wei - Imperial Guardian and uncle to Yuan Shao - (4,77)
+			Zhou Bi - Counselor - (4,77)
+
+189/6-7+/(sometime later)
+	Jizhou Region - (SE of Yi Zhou / Area near Zhao Guo)
+		"He hung up the seals of his office at the east gate and went to Jizhou Region" - (4,77)
+			Yuan Shao - - (4,77)
+
+189/6-7+/(sometime later)
+	Bohai - (NW of Yi Zhou / Xin Du / Yan An Guo)
+		"Dong Zhuo followed this advice, and within that day sent a messenger to offer Yuan Shao the governorship of Bohai." - (4,78)
+			Yuan Shao - - (4,78)
+			
+189/9/1
+	Luoyang
+		"On the first day of the ninth month, the Emperor was invited to proceed to the Hall of Virtue where was a great assembly of officials." - (4,78)
+		"There Dong Zhuo," - (4,78)
+		"And Li Ru read as follows" - (4,78)
+		"Moreover Dong Zhuo bade Empress He strip off her royal dress of ceremony and await the imperial command" - (4,79)
+		"It was Chair of the Secretariat Ding Guan" - (4,79)
+		"Then the emperor designate, Prince of Chenliu" - (4,80)
+		"and the Imperial Consort, Lady Tang" - (4,80)
+		"There was the young emperor, after reigning less than half a year" - (4,80)
+			Ding Guan - Chair of the Secretariat (killed for speaking against the dethronement of Liu Bian) - (4,79)
+			Dong Zhuo - - (4,78)
+			Empress He - - (4,79)
+			Lady Tang - Imperial Consort - (4,80)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (4,78)
+			Liu Bian - made former emperor on this day and named Prince of Hongnong - (4,78)
+			Liu Xian - Prince of Chenliu, crowned emperor on this day - (4,80)
+
+189/9/1+
+	Luoyang
+		"His adviser, Li Ru, impressed upon Dong Zhuo constantly" - (4,82)
+		"Then Cai Yong gave in and appeared" - (4,82)
+		"Meanwhile the deposed ruler, his mother, and his consort were immured in the Palace of Forever Calm" - (4,82)
+			Cai Yong - Court Counselor promoted to High Minister  - (4,82)
+			Dong Zhuo - - (4,82)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (4,82)
+			Empress He - (murdered by Li Ru who threw her out a window) - (4,82)
+			Lady Tang - Imperial Consort (murdered by strangulation) - (4,82)
+			Liu Bian - former emperor, Prince of Hongnong (murdered by being forced to drink poison) - (4,82)
+
+189/9/(sometime later)			
+	Luoyang
+		"A general named Wu Fu was disgusted at this ferocity" - (4,86)
+		"One day when Dong Zhuo came to court, Wu Fu met him on the steps" - (4,86)
+		"held Wu Fu off till Lu Bu came to his help" - (4,86)
+			Dong Zhuo - - (4,86)
+			Lu Bu - - (4,86)
+			Wu Fu - General (hacked to pieces after attempting to assassinate Dong Zhuo) - (4,86)
+			
+189/9/(sometime later)
+	Bohai - (NW of Yi Zhou / Xin Du / Yan An Guo)
+		"At Bohai, Yuan Shao heard" - (4,86)
+		
+189/9/(sometime later)
+	Luoyang
+		"One day while among the throng in attendance, mostly people of long service, Wang Yun said to his colleagues" - (4,87)
+		"Seated among the guests, however, was Cao Cao" - (4,88)
+			Cao Cao - - (4,88)
+			Wang Yun - Minister of the Interior - (4,87)
+			
+189/9/(next day)
+	Luoyang
+		"The next day Cao Cao, with this short sword girded on, came to the palace of the Prime Minister." - (4,88)
+		"So Cao Cao went in and found his host seated on a couch. Lu Bu was at his side." - (4,88-89)
+		"Just then Li Ru came in" - (4,90)
+		"Cao Cao had not returned to his lodging but rode in hot haste out of the eastern gate." - (4,90)
+			Cao Cao - fled after failed assassination attempt - (4,88)
+			Dong Zhuo - - (4,88)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (4,90)
+			Lu Bu - - (4,89)
+
+189/9/(between attempted assassination of Dong Zhuo and meeting Lu Boshe in Chenggao)
+	Chenliu - (NE of Mt. Song / E of Luoyang / E of Zhong Mou)
+		"Your father has gone into hiding to Chenliu" - (4,93)
+			Cao Song - Cao Cao's father - (4,93)
+		
+189/9/(sometime after attempted assassination of Dong Zhuo)
+	Zhongmou - (NE of Mt. Song / E of Luoyang)
+		"Cao Cao traveled in hot haste toward Qiao, his home county. 
+			On the road at Zhongmou, he was recognized by the guards at the gate and made prisoner. They took him to the Magistrate." - (4,91)
+		"I am called Chen Gong" - (4,92)
+		"I will abandon my office and follow you!" - (4,92)
+		"Then each took a sword and rode away toward Qiao." - (4,92)
+			Cao Cao - - (4,91)
+			Chen Gong - Magistrate of Zhongmou, joins Cao Cao - (4,92)
+
+189/9/(three days later)
+	Chenggao - UNKNOWN
+		"Three days later at eventide (evening) they reached Chenggao." - (4,92)
+		"Lu Boshe greeted them" - (4,93)
+			Cao Cao - - (4,91)
+			Chen Gong - - (4,92)
+			Lu Boshe - Cao Cao's "uncle" and sworn brother of his father, Cao Song - (4,93)
+
+189/9/(later same day)
+	Near Lu Boshe's home near Chenggao - UNKNOWN
+		"Cao Cao and Chen Gong at once mounted and rode away. Soon they met their host Lu Boshe coming home"
+			Cao Cao - - (4,94)
+			Chen Gong - - (4,94)
+			Lu Boshe - Cao Cao's "uncle" and sworn brother of his father, Cao Song (killed by Cao Cao to cover the murder of Lu Boshe's family) - (4,94)
+
+189/9/(later same day or early next)
+	Inn - UNKNOWN
+		"They rode on some distance by moonlight and presently knocked up an inn for shelter." - (4,95)
+			Cao Cao - - (4,95)
+			Chen Gong - - (4,95)
+
+
+==========================================
+CHAPTER 5 ================================
+==========================================
+
+189/9/(sometime later)
+	Dongjun - (NE of Mt. Song / Bao Zhou / Dong Jun)
+		"Chen Gong mounted his horse and rode away eastward to his home county of Dongjun." - (5,96)
+			Chen Gong - - (5,96)
+		
+189/9/(sometime later)
+	Qiao - (E of Mt. Song / SW of Mt. Mang Tang / Wu Oing / Qiao Jun)
+		"So Cao Cao traveled as quickly as possible toward Qiao. When he saw his father" - (5,96)
+		"However, there is a graduate here, one Wei Hong" - (5,96)
+			Cao Cao - - (5,96)
+			Cao Song - Cao Cao's father - (5,96)
+			Wei Hong - wealthy citizen of Qiao, funds Cao Cao against Dong Zhuo - (5,96)
+			
+189/9/(sometime later)
+	Qiao - (E of Mt. Song / SW of Mt. Mang Tang / Wu Oing / Qiao Jun)
+		"One day came a certain Yue Jing from Yangping and another Li Dian from Julu." - (5,98)
+		"Another was one Xiahou Dun from Qiao." - (5,98)
+		"Now he came to offer his services, accompanied by his cousin Xiahou Yuan." - (5,98)
+			Cao Cao - - (5,96)
+			Cao Song - Cao Cao's father - (5,96)
+			Li Dian - - (5,98)
+			Xiahou Dun - - (5,98)
+			Xiahou Yuan - - (5,98)
+			Yue Jing - - (5,98)
+			Wei Hong - wealthy citizen of Qiao, funds Cao Cao against Dong Zhuo - (5,96)
+			
+189/9/(a few days later)
+	Qiao - (E of Mt. Song / SW of Mt. Mang Tang / Wu Oing / Qiao Jun)
+		"A few days later came Cao Cao’s two cousins, Cao Ren and Cao Hong"
+			Cao Cao - - (5,96)
+			Cao Hong - Cao Cao's cousin - (5,98)
+			Cao Ren - Cao Cao's cousin - (5,98)
+			Cao Song - Cao Cao's father - (5,96)
+			Li Dian - - (5,98)
+			Xiahou Dun - - (5,98)
+			Xiahou Yuan - - (5,98)
+			Yue Jing - - (5,98)
+			Wei Hong - wealthy citizen of Qiao, funds Cao Cao against Dong Zhuo - (5,96)
+
+189/9/?
+	Bohai - (NW of Yi Zhou / Xin Du / Yan An Guo)
+		"When Yuan Shao received Cao Cao’s call to arms, he collected all those under his command to the number of
+			thirty thousand. Then he marched from Bohai to Qiao" - (5,98)
+			Yuan Shao - - (5,89)
+
+189/9/(sometime later)
+	Qiao - (E of Mt. Song / SW of Mt. Mang Tang / Wu Oing / Qiao Jun)
+		"When Yuan Shao received Cao Cao’s call to arms, he collected all those under his command to the number of
+			thirty thousand. Then he marched from Bohai to Qiao to take the oath to Cao Cao" - (5,98)
+			Cao Cao - - (5,96)
+			Cao Hong - Cao Cao's cousin - (5,98)
+			Cao Ren - Cao Cao's cousin - (5,98)
+			Cao Song - Cao Cao's father - (5,96)
+			Li Dian - - (5,98)
+			Xiahou Dun - - (5,98)
+			Xiahou Yuan - - (5,98)
+			Yue Jing - - (5,98)
+			Wei Hong - wealthy citizen of Qiao, funds Cao Cao against Dong Zhuo - (5,96)
+			Yuan Shao - - (5,89)
+
+189/9/(sometime later)
+	Nanyang - (Jing Zhou / Nan Yang / Wan Cheng / S of Luoyang)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Yuan Shu - Governor of Nanyang - (5,99)
+
+189/9/(around the same time)
+	Jizhou Region - (SE of Yi Zhou / Area near Zhao Guo)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Han Fu - Imperial Protector of Jizhou Region - (5,99)
+
+189/9/(around the same time)
+	Yuzhou Region - (SE of Luoyang / S of Xu Chang)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Kong Zhou - Imperial Protector of Yuzhou Region - (5,99)
+			Liu Dai - Imperial Protector of Yuzhou Region - (5,99)
+			
+189/9/(around the same time)
+	Henei - (NE of Luoyang / He Nei / Huai)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Wang Kuang - Governor of Henei - (5,99)
+			
+189/9/(around the same time)
+	Chenliu - (NE of Mt. Song / E of Luoyang / E of Zhong Mou)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Zhang Miao - Governor of Chenliu - (5,99)
+			
+189/9/(around the same time)
+	Dongjun - (Bao Zhou / Dong Jun / NW of Mt. Jiu Li)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Qiao Mao - Governor of Dongjun - (5,99)
+			
+189/9/(around the same time)
+	Shanyang - (SE of Bao Zhou / Dong Jun / N of Mt. Jiu Li)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Yuan Yi - Governor of Shanyang - (5,99)
+			
+189/9/(around the same time)
+	Jibei - (Qi Nan / W of Mt. Tai)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Bao Xin - Lord of Jibei - (5,99)
+			
+189/9/(around the same time)
+	Beihai - (SE of Qing Zhou / ENE of Mt. Tai)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Kong Rong - Governor of Beihai - (5,99)
+			
+189/9/(around the same time)
+	Guangling - (SE of Yang Zhou / NE of Mt. Bei Gu)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Zhang Chao - Governor of Guangling - (5,99)
+			
+189/9/(around the same time)
+	Xuzhou Region - (E of Luoyang / E of Mt. Mang Tang)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Tao Qian - Imperial Protector of Xuzhou Region - (5,99)
+			
+189/9/(around the same time)
+	Xiliang - (Far NW corner / Wu Wei / Xi Liang)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Ma Teng - Governor of Xiliang - (5,99)
+			
+189/9/(around the same time)
+	Beiping - (E of You Zhou / Fan Yang / Near modern-day Beijing)
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Gongsun Zan - Governor of Beiping - (5,99)
+			
+189/9/(around the same time)
+	Shangdang - (N of Luoyang / SW of Bing Zhou / Jin Yang / Yang Qu )
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Zhang Yang - Governor of Shangdang - (5,99)
+			
+189/9/(around the same time)
+	Changsha
+		"Next a manifesto was issued" - (5,98)
+		"Many from every side answered the summons as the following list shows" - (5,99)
+		"They were heading for Capital Luoyang." - (5,99)
+			Sun Jian - Governor of Changsha - (5,99)
+			
+189/9/(after Gongsun Zan left Beiping)
+	Pingyuan - (S of De Zhou / SE of Yi Zhou / Xin Du)
+		"The Governor of Beiping [Beijing], Gongsun Zan, while on his way with his force of fifteen thousand, passed through the county of Pingyuan" - (5,99)
+		"When they drew nearer, he saw the leader was Liu Bei." - (5,99)
+		"“These are Guan Yu and Zhang Fei, my sworn brothers.”" - (5,100)
+		"So without more ado, the three brothers, with a few horsemen, joined Gongsun Zan and marched with him to join the great army." - (5,101)
+	!!NOTE: Historically, neither Gongsun Zan nor Liu Bei took part in the coalition against Dong Zhuo!!
+			Gongsun Zan - Governor of Beiping - (5,99)
+			Guan Yu - - (5,100)
+			Liu Bei - Magistrate of Pingyuan - (5,99)
+			Zhang Fei - - (5,100)
+
+189/9/(sometime later)
+	Qiao - (E of Mt. Song / SW of Mt. Mang Tang / Wu Oing / Qiao Jun)
+		"One after another the feudal lords came up and encamped." - (5,101)
+			Bao Xin - Lord of Jibei - (5,99)
+			Cao Cao - - (5,96)
+			Cao Hong - Cao Cao's cousin - (5,98)
+			Cao Ren - Cao Cao's cousin - (5,98)
+			Cao Song - Cao Cao's father - (5,96)
+			Gongsun Zan - Governor of Beiping - (5,99)
+			Guan Yu - - (5,100)
+			Han Fu - Imperial Protector of Jizhou Region - (5,99)
+			Kong Rong - Governor of Beihai - (5,99)
+			Kong Zhou - Imperial Protector of Yuzhou Region - (5,99)
+			Li Dian - - (5,98)
+			Liu Bei - Magistrate of Pingyuan - (5,99)
+			Liu Dai - Imperial Protector of Yuzhou Region - (5,99)
+			Ma Teng - Governor of Xiliang - (5,99)
+			Qiao Mao - Governor of Dongjun - (5,99)
+			Sun Jian - Governor of Changsha - (5,99)
+			Tao Qian - Imperial Protector of Xuzhou Region - (5,99)
+			Xiahou Dun - - (5,98)
+			Xiahou Yuan - - (5,98)
+			Yue Jing - - (5,98)
+			Wang Kuang - Governor of Henei - (5,99)
+			Wei Hong - wealthy citizen of Qiao, funds Cao Cao against Dong Zhuo - (5,96)
+			Yuan Shao - - (5,89)
+			Yuan Shu - Governor of Nanyang, named "Chief of the Commissariat" (responsible for supplies) - (5,99)
+			Yuan Yi - Governor of Shanyang - (5,99)
+			Zhang Chao - Governor of Guangling - (5,99)
+			Zhang Fei - - (5,100)
+			Zhang Miao - Governor of Chenliu - (5,99)
+			Zhang Yang - Governor of Shangdang - (5,99)
+
+189/9/?
+	Luoyang
+		"The guard there sent a swift rider to the capital to announce to the Prime Minister the urgency of the situation." - (5,103-104)
+			Dong Zhuo - - (5,104)
+			Hua Xiong - of Guanxi, named "Commander of the Valiant Cavalry" - (5,104)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (5,104)
+			Lu Bu - - (5,104)
+
+189/9/?
+	River Si Pass - (aka Hu Lao Pass / Fan Shui Pass / Sishui (Si River) Pass) https://en.wikipedia.org/wiki/Battle_of_Sishui_Pass / https://en.wikipedia.org/wiki/Hulao_Pass
+		"Hua Xiong and three other generals---Li Su, Hu Zhen, and Zhao Cen---hastily moved toward River Si Pass." - (5,104)
+		"Bao Xin endeavored to meet the foe first, and so he secretly dispatched his brother, Bao Zhong, with three thousand by a bye road. 
+			As soon as this small force reached the Pass, they offered battle." - (5,104)
+			Hu Zhen - Hua Xion's General - (5,104)
+			Bao Zhong - brother of Lord of Jibei, Bao Xin (killed by Hua Xiong) - (5,104)
+			Hua Xiong - of Guanxi, "Commander of the Valiant Cavalry" - (5,104)
+			Li Su - Hua Xion's General - (5,104)
+			Zhao Cen - Hua Xion's General - (5,104)
+
+189/9/(same day or shortly thereafter?)
+	River Si Pass - (aka Hu Lao Pass / Fan Shui Pass / Sishui (Si River) Pass) https://en.wikipedia.org/wiki/Battle_of_Sishui_Pass / https://en.wikipedia.org/wiki/Hulao_Pass
+		"The force under Sun Jian set out and presently came to River Si Pass." - (5,103)
+		"Sun Jian presently approached the Pass. He had four generals: Cheng Pu of Tuyin ... Huang Gai of Lingling ... Han Dang of Lingzhi ... Zu Mao of Wujun" - (5,106)
+			Cheng Pu - Sun Jian's General - (5,106)
+			Han Dang - Sun Jian's General - (5,106)
+			Hu Zhen - Hua Xion's General (killed by Cheng Pu) - (5,104)
+			Hua Xiong - of Guanxi, Dong Zhuo's General, named "Commander of the Valiant Cavalry" - (5,104)
+			Huang Gai - Sun Jian's General - (5,106)
+			Li Su - Hua Xion's General - (5,104)
+			Sun Jian - Governor of Changsha - (5,103 & 106)
+			Zhao Cen - Hua Xion's General - (5,104)
+			Zu Mao - Sun Jian's General - (5,106)
+
+189/9/(same day or shortly thereafter?)			
+	Liangdong - (SE of Luoyang / SW of Rong Yang / N of Mt. Song & Mt. Xuan Yuan)
+		"But from the Pass, Hua Xiong’s troops rained down showers of stones, which proved too much for the assailants, and they retired into camp at Liangdong." - (5,106)
+			Cheng Pu - Sun Jian's General - (5,106)
+			Han Dang - Sun Jian's General - (5,106)
+			Huang Gai - Sun Jian's General - (5,106)
+			Sun Jian - Governor of Changsha - (5,103 & 106)
+			Zu Mao - Sun Jian's General - (5,106)
+
+189/9/(likely days later)						
+	Liangdong - (SE of Luoyang / SW of Rong Yang / N of Mt. Song & Mt. Xuan Yuan)
+		"Sun Jian also sent an urgent message for supplies to the commissary." - (5,106)
+		"Soon Sun Jian’s hungry soldiers showed their disaffection by indiscipline, and the spies bore the news to the defenders of the Pass." - (5,107)
+		"At dark they left the Pass and crept by secret paths to the rear of Sun Jian’s camp." - (5,107)
+			Cheng Pu - Sun Jian's General - (5,106)
+			Han Dang - Sun Jian's General - (5,106)
+			Hua Xiong - of Guanxi, Dong Zhuo's General, named "Commander of the Valiant Cavalry" - (5,104)
+			Huang Gai - Sun Jian's General - (5,106)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (5,107)
+			Sun Jian - Governor of Changsha - (5,107)
+			Zu Mao - Sun Jian's General - (5,106)
+
+189/9/(same evening or early next morning)						
+	Half-burned house near Liangdong - (SE of Luoyang / SW of Rong Yang / N of Mt. Song & Mt. Xuan Yuan)
+		"Zu Mao, hotly pursued, then tore off the headdress which he hung on the post of a half-burned house as he passed" - (5,108)
+			Hua Xiong - of Guanxi, Dong Zhuo's General, named "Commander of the Valiant Cavalry" - (5,108)
+			Zu Mao - Sun Jian's General (killed by Hua Xiong) - (5,108)
+
+189/9/(shortly thereafter)
+	River Si Pass - (aka Hu Lao Pass / Fan Shui Pass / Sishui (Si River) Pass) https://en.wikipedia.org/wiki/Battle_of_Sishui_Pass / https://en.wikipedia.org/wiki/Hulao_Pass
+		"Hua Xiong and Li Ru continued the slaughter till the day broke, and they led their troops back to the Pass." - (5,108)
+			NOTE: It is likely this line should reference 'Li Su' since he is the general and 'Li Ru' is the advisor.
+			Hu Zhen - Hua Xion's General - (5,104)
+			Hua Xiong - of Guanxi, "Commander of the Valiant Cavalry" - (5,108)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (5,108)
+			Li Su - Hua Xion's General - (5,104)
+			Zhao Cen - Hua Xion's General - (5,104)
+
+189/9/(shortly thereafter)
+	Likely near Liangdong - (SE of Luoyang / SW of Rong Yang / N of Mt. Song & Mt. Xuan Yuan)
+		"Cheng Pu, Huang Gai, and Han Dang in time found their chief and the soldiers gathered. Sun Jian was much grieved at the loss of Zu Mao." - (5,108)
+			Cheng Pu - Sun Jian's General - (5,108)
+			Han Dang - Sun Jian's General - (5,108)
+			Huang Gai - Sun Jian's General - (5,108)
+			Sun Jian - Governor of Changsha - (5,108)
+
+189/9/(likely a day or two later)
+	Qiao? - (E of Mt. Song / SW of Mt. Mang Tang / Wu Oing / Qiao Jun)
+		"When news of the disaster reached Yuan Shao, he was greatly chagrined and called all the lords to a council. They assembled and Gongsun Zan was the last to arrive." - (5,108)
+		"“Who are those men behind you?” said Yuan Shao. Gongsun Zan told Liu Bei to come forward, and said, “This is Liu Bei,"" - (5,108)
+		"Even as they were at this meeting came in a scout to say that Hua Xiong with a company of mail-clad horsemen was coming down from the Pass." - (5,110)
+		"“I will go,” said Yu She, a renown general of Yuan Shu" - (5,110)
+		"“I have a brave warrior among my army. Pan Feng is his name" - (5,110)
+			Bao Xin - Lord of Jibei - (5,99)
+			Cao Cao - - (5,109)
+			Cao Hong - Cao Cao's cousin - (5,98)
+			Cao Ren - Cao Cao's cousin - (5,98)
+			Cao Song - Cao Cao's father - (5,96)
+			Gongsun Zan - Governor of Beiping - (5,108)
+			Guan Yu - - (5,109)
+			Han Fu - Imperial Protector of Jizhou Region - (5,99)
+			Hua Xiong - of Guanxi, "Commander of the Valiant Cavalry" (killed by Guan Yu) - (5,110)
+			Kong Rong - Governor of Beihai - (5,99)
+			Kong Zhou - Imperial Protector of Yuzhou Region - (5,99)
+			Li Dian - - (5,98)
+			Liu Bei - Magistrate of Pingyuan - (5,109)
+			Liu Dai - Imperial Protector of Yuzhou Region - (5,99)
+			Ma Teng - Governor of Xiliang - (5,99)
+			Pan Feng - Warrior in Han Fu's army (killed by Hua Xiong) - (5,110)
+			Qiao Mao - Governor of Dongjun - (5,99)
+			Tao Qian - Imperial Protector of Xuzhou Region - (5,99)
+			Xiahou Dun - - (5,98)
+			Xiahou Yuan - - (5,98)
+			Yue Jing - - (5,98)
+			Wang Kuang - Governor of Henei - (5,99)
+			Wei Hong - wealthy citizen of Qiao, funds Cao Cao against Dong Zhuo - (5,96)
+			Yu She - General of Yuan Shu (killed by Hua Xiong) - (5,110)
+			Yuan Shao - - (5,108)
+			Yuan Shu - Governor of Nanyang, named "Chief of the Commissariat" (responsible for supplies) - (5,99)
+			Yuan Yi - Governor of Shanyang - (5,99)
+			Zhang Chao - Governor of Guangling - (5,99)
+			Zhang Fei - - (5,109)
+			Zhang Miao - Governor of Chenliu - (5,99)
+			Zhang Yang - Governor of Shangdang - (5,99)
+
+189/9/(shortly thereafter)
+	River Si Pass - (aka Hu Lao Pass / Fan Shui Pass / Sishui (Si River) Pass) https://en.wikipedia.org/wiki/Battle_of_Sishui_Pass / https://en.wikipedia.org/wiki/Hulao_Pass
+		"When Hua Xiong’s troops straggled back and told the story of defeat and death, Li Ru was greatly distressed.
+			He wrote urgent letters to his master who called in his trusted advisers to a council." - (5,114)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (5,114)
+
+189/9/(shortly thereafter)
+	Luoyang
+		"Dong Zhuo agreed and at once ordered his two generals, Li Jue and Guo Si, to take five hundred troops and surround the residence of Imperial Guardian Yuan Wei" - (5,114)
+			Dong Zhuo - - (5,114)
+			Guo Si - Dong Zhuo's General - (5,114)
+			Li Jue - Dong Zhuo's General - (5,114)
+			Lu Bu - - (5,114)
+			Yuan Wei - Imperial Guardian, uncle of Yuan Shao (killed on Dong Zhuo's order) - (5,114)
+
+189/9/?	
+	River Si Pass - (aka Hu Lao Pass / Fan Shui Pass / Sishui (Si River) Pass) https://en.wikipedia.org/wiki/Battle_of_Sishui_Pass / https://en.wikipedia.org/wiki/Hulao_Pass
+		"And Dong Zhuo commanded two hundred thousand troops to advance in two armies.
+			The first fifty thousand were under Li Jue and Guo Si, and they were to hold River Si Pass" - (5,114)
+			Guo Si - Dong Zhuo's General - (5,114)
+			Li Jue - Dong Zhuo's General - (5,114)
+
+189/9/?	
+	Tiger Trap Pass - (aka Hu Lao Pass / Fan Shui Pass / Sishui (Si River) Pass) https://en.wikipedia.org/wiki/Battle_of_Sishui_Pass / https://en.wikipedia.org/wiki/Hulao_Pass
+		"The other one hundred fifty thousand under Dong Zhuo himself went to Tiger Trap Pass.
+			His counselors and commanders- --Li Ru, Lu Bu, Fan Chou, Zhang Ji, and others---marched with the main army" - (5,114)
+		"Tiger Trap Pass is fifteen miles from Capital Luoyang." - (5,114)
+		NOTE: These quotes, along with the previous section suggest Dong Zhuo's men split into two armies and travelled to different locations. However
+			the articles linked suggest "Hu Lao", "Sishui Pass" (translated "Si River Pass"), and "Tiger Trap Pass" are all the same location.
+			Dong Zhuo - - (5,114)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (5,114)
+			Lu Bu - - (5,114)
+			Fan Chou - Dong Zhuo's General - (5,114)
+			Zhang Ji - Dong Zhuo's General - (5,114)
+			
+189/9/(shortly thereafter)	
+	Tiger Trap Pass - (aka Hu Lao Pass / Fan Shui Pass / Sishui (Si River) Pass) https://en.wikipedia.org/wiki/Battle_of_Sishui_Pass / https://en.wikipedia.org/wiki/Hulao_Pass
+		"News of this movement reaching the confederate lords. Yuan Shao summoned a council." - (5,114)
+		"So eight of the commanders---Wang Kuang, Qiao Mao, Bao Xin, Yuan Yi, Kong Rong, Zhang Yang, Tao Qian, and Gongsun Zan---were ordered to go in the direction of the
+			Tiger Trap Pass to oppose their enemy. Cao Cao and his troops moved among them as reserve to render help where needed." - (5,115)
+		"Of the eight, Wang Kuang, the Governor of Henei, was the first to arrive, and Lu Bu went to give battle" - (5,115)
+		"a valiant general from Henei named Fang Yue spurred to the front" - (5,115)
+		"Luckily, two other troops led by Qiao Mao and Yuan Yi came up and rescued the wounded Wang Kuang, and Lu Bu pulled back.
+			The three, having lost many troops, withdrew ten miles and made a stockade" - (5,115)
+			Fang Yue - General of Wan Kuang (killed by Lu Bu) - (5,115)
+			Lu Bu - - (5,115)
+			Qiao Mao - - (5,115)
+			Wang Kuang - - (5,115)
+			Yuan Yi - - (5,115)
+
+189/9/(shortly thereafter)	
+	10 miles from Tiger Trap Pass
+		"Luckily, two other troops led by Qiao Mao and Yuan Yi came up and rescued the wounded Wang Kuang, and Lu Bu pulled back.
+			The three, having lost many troops, withdrew ten miles and made a stockade" - (5,116)
+		"And before long the remaining five commanders came up and joined them." - (5,116)
+			Bao Xin - Lord of Jibei - (5,115)
+			Cao Cao - - (5,115)
+			Cao Hong - Cao Cao's cousin - (5,98)
+			Cao Ren - Cao Cao's cousin - (5,98)
+			Gongsun Zan - Governor of Beiping - (5,115)
+			Guan Yu - - (5,109)
+			Kong Rong - - (5,115)
+			Li Dian - Cao Cao's General - (5,98)
+			Liu Bei - Magistrate of Pingyuan (assuming he and his travel with Gongsun Zan) - (5,109)
+			Qiao Mao - Governor of Dongjun - (5,116)
+			Tao Qian - Imperial Protector of Xuzhou Region - (5,116)
+			Wang Kuang - Governor of Henei - (5,115)
+			Xiahou Dun - Cao Cao's General - (5,98)
+			Xiahou Yuan - Cao Cao's General - (5,98)
+			Yuan Yi - Governor of Shanyang - (5,116)
+			Yue Jing - Cao Cao's General - (5,98)
+			Zhang Fei - - (5,109)
+			Zhang Yang - Governor of Shangdang - (5,115)
+			
+189/9/?	
+	10 miles from Tiger Trap Pass
+		"And while they sat there anxious and uncertain, it was announced that Lu Bu had returned to challenge them." - (5,116)
+		"Mu Shun, a general of Governor Zhang Yang, rode out with his spear set" - (5,116)
+		"Then galloped forth Wu Anguo, a general under Governor Kong Rong" - (5,116)
+			Bao Xin - Lord of Jibei - (5,115)
+			Cao Cao - - (5,115)
+			Cao Hong - Cao Cao's cousin - (5,98)
+			Cao Ren - Cao Cao's cousin - (5,98)
+			Gongsun Zan - Governor of Beiping - (5,115)
+			Guan Yu - - (5,109)
+			Kong Rong - - (5,115)
+			Li Dian - Cao Cao's General - (5,98)
+			Liu Bei - Magistrate of Pingyuan (assuming he and his travel with Gongsun Zan) - (5,109)
+			Lu Bu - - (5,116)
+			Mu Shun - Zhang Yang's General (killed by Lu Bu) - (5,116)
+			Qiao Mao - Governor of Dongjun - (5,116)
+			Tao Qian - Imperial Protector of Xuzhou Region - (5,116)
+			Wang Kuang - Governor of Henei - (5,115)
+			Wu Anguo - Kong Rong's General (Lu Bu broke wrist) - (5,116)
+			Xiahou Dun - Cao Cao's General - (5,98)
+			Xiahou Yuan - Cao Cao's General - (5,98)
+			Yuan Yi - Governor of Shanyang - (5,116)
+			Yue Jing - Cao Cao's General - (5,98)
+			Zhang Fei - - (5,109)
+			Zhang Yang - Governor of Shangdang - (5,115)			
+
+189/9/(shortly thereafter)	
+	10 miles from Tiger Trap Pass
+		"The fighting then ceased, and after their return to camp another council met" - (5,116)
+		"While the council was in progress again came Lu Bu to challenge them, and again the commanders moved out against him." - (5,116)
+			Bao Xin - Lord of Jibei - (5,115)
+			Cao Cao - - (5,115)
+			Cao Hong - Cao Cao's cousin - (5,98)
+			Cao Ren - Cao Cao's cousin - (5,98)
+			Gongsun Zan - Governor of Beiping - (5,117)
+			Guan Yu - - (5,109)
+			Kong Rong - - (5,115)
+			Li Dian - Cao Cao's General - (5,98)
+			Liu Bei - Magistrate of Pingyuan - (5,109)
+			Lu Bu - - (5,116)
+			Qiao Mao - Governor of Dongjun - (5,116)
+			Tao Qian - Imperial Protector of Xuzhou Region - (5,116)
+			Wang Kuang - Governor of Henei - (5,115)
+			Wu Anguo - Kong Rong's General (Lu Bu broke wrist) - (5,116)
+			Xiahou Dun - Cao Cao's General - (5,98)
+			Xiahou Yuan - Cao Cao's General - (5,98)
+			Yuan Yi - Governor of Shanyang - (5,116)
+			Yue Jing - Cao Cao's General - (5,98)
+			Zhang Fei - - (5,118)
+			Zhang Yang - Governor of Shangdang - (5,115)			
+
+189/9/?
+	Camp of Yuan Shu - (UNKNOWN)
+		"the story of victory was sent to Yuan Shao, who ordered Sun Jian to make an immediate advance." - (6,126)
+		"Thereupon Sun Jian with two trusty generals, Cheng Pu and Huang Gai, went over to the camp of Yuan Shu." - (6,126)
+			Cheng Pu - Sun Jian's General - (6,126)
+			Huang Gai - Sun Jian's General - (6,126)
+			Sun Jian - - (6,126)
+			Yuan Shu - - (6,126)
+			
+189/9/(shortly thereafter)
+	Camp of Sun Jian - (UNKNOWN)
+		"Sun Jian therefore took his leave and returned to his own camp, where he found the visitor was Li Jue" - (6,127)
+			Cheng Pu - Sun Jian's General - (6,126)
+			Huang Gai - Sun Jian's General - (6,126)
+			Li Jue - - (6,127)
+			Sun Jian - - (6,126)
+
+189/9/(shortly thereafter)
+	Tiger Trap Pass - (aka Hu Lao Pass / Fan Shui Pass / Sishui (Si River) Pass) https://en.wikipedia.org/wiki/Battle_of_Sishui_Pass / https://en.wikipedia.org/wiki/Hulao_Pass
+		"Li Jue threw his arms over his head and ran out. He returned to his master and told him what a rude reception he had met with. 
+			Dong Zhuo asked his adviser Li Ru how to reply to this." - (6,127)
+			Dong Zhuo - - (6,127)
+			Li Jue - Dong Zhuo's Advisor - (6,127)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (6,127)
+			Lu Bu - - (5,114)
+			Fan Chou - Dong Zhuo's General - (5,114)
+			Zhang Ji - Dong Zhuo's General - (5,114)
+
+190/4/9 - (shortly after previous) Historical date taken from https://en.wikipedia.org/wiki/Campaign_against_Dong_Zhuo#Razing_of_Luoyang
+	Luoyang
+		"Then taking Lu Bu with him, Dong Zhuo started at once for Capital Luoyang." - (6,129)
+		"Here he called all the officials to a great council in the Palace and addressed them" - (6,129)
+		"Yang Biao, Minister of the Interior, said" - (6,129)
+		"Another official, Grand Commander Huang Wan, supported his colleague" - (6,129)
+		"Yet Minister of Works Xun Shuang raised another protest" - (6,130)
+		"As Dong Zhuo went out to get into his coach, he met two other officers who made obeisance.
+			They were the Chair of the Secretariat, Zhou Bi, and the Commander of the City Gates, Wu Qiong." - (6,130)
+		"The command to remove to the new capital immediately was issued." - (6,130)
+		"Speaking to Dong Zhuo, Li Ru pointed out" - (6,130)
+		"The task of driving forth the inhabitants, some millions, was given to two of Dong Zhuo’s commanders, Li Jue and Guo Si." - (6,130-131)
+			Dong Zhuo - - (6,129)
+			Guo Si - Dong Zhuo's commander - (6,131)
+			Huang Wan - Grand Commander - (6,129)
+			Li Jue - Dong Zhuo's commander - (6,131)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (6,130)
+			Lu Bu - - (6,129)
+			Wu Qiong - Commander of the City Gates (executed on Dong Zhuo's order) - (6,130)
+			Xun Shuang - Minister of Works - (6,130)
+			Yang Biao - Minister of the Interior - (6,129)
+			Zhou Bi - Chair of the Secretariat (executed on Dong Zhuo's order) - (6,130)
+			
+190/4/?
+	River Si Pass - (aka Hu Lao Pass / Fan Shui Pass / Tiger Trap Pass) https://en.wikipedia.org/wiki/Battle_of_Sishui_Pass / https://en.wikipedia.org/wiki/Hulao_Pass
+		"Luoyang being thus abandoned, the general of Dong Zhuo at River Si Pass, Zhao Cen, vacuated that post of vantage, 
+			which Sun Jian at once occupied." - (6,131)
+		"Liu Bei and his brothers took Tiger Trap Pass and the confederate lords advanced." - (6,131-132) [advanced to Luoyang? - see next]
+			Cheng Pu - Sun Jian's General - (5,126)
+			Guan Yu - - (6,131)
+			Han Dang - Sun Jian's General - (5,126)
+			Huang Gai - Sun Jian's General - (5,126)
+			Liu Bei - - (6,131)
+			Sun Jian - - (6,131)
+			Zhang Fei - - (6,131)
+			Zhao Cen - Dong Zhuo's General (previously described as Hua Xion's General) (returned to Dong Zhuo?) - (6,131)
+
+190/4/?
+	Luoyang
+		"Sun Jian hastened to the late capital which was still in flames." - (6,132)
+		"Sun Jian told off his soldiers to extinguish the fires and set out camping places for the confederate lords." - (6,132)
+			NOTE: To me, this line implies that the confederate lords would camp near/in the ruins of Luoyang.
+			NOTE: I am also making the assumption that Liu Bei accompanied the confederate lords in moving to Luoyang as the pass
+				had, at this point, lost strategic importance.
+		"Cao Cao went to see Yuan Shao and said" - (6,132)
+		"Then, he and his six generals---Xiahou Dun, Xiahou Yuan, Cao Ren, Cao Hong, Li Dian, and Yue Jing---and ten thousand troops started in pursuit." - (6,132)
+			Bao Xin - Lord of Jibei - (5,115)
+			Cao Cao - (headed west to pursue Dong Zhuo) - (6,132)
+			Cao Hong - Cao Cao's cousin (headed west to pursue Dong Zhuo) - (6,132)
+			Cao Ren - Cao Cao's cousin (headed west to pursue Dong Zhuo) - (6,132)
+			Cheng Pu - Sun Jian's General - (5,126)
+			Gongsun Zan - Governor of Beiping - (5,117)
+			Guan Yu - - (6,131)
+			Han Dang - Sun Jian's General - (5,126)
+			Huang Gai - Sun Jian's General - (5,126)
+			Kong Rong - - (5,115)
+			Li Dian - Cao Cao's General (headed west to pursue Dong Zhuo) - (6,132)
+			Liu Bei - Magistrate of Pingyuan - (6,131)
+			Qiao Mao - Governor of Dongjun - (5,116)
+			Sun Jian - - (6,132)
+			Tao Qian - Imperial Protector of Xuzhou Region - (5,116)
+			Wang Kuang - Governor of Henei - (5,115)
+			Wu Anguo - Kong Rong's General (Lu Bu broke wrist) - (5,116)
+			Xiahou Dun - Cao Cao's General (headed west to pursue Dong Zhuo) - (6,132)
+			Xiahou Yuan - Cao Cao's General (headed west to pursue Dong Zhuo) - (6,132)
+			Yuan Shao - - (6,132)
+			Yuan Yi - Governor of Shanyang - (5,116)
+			Yue Jing - Cao Cao's General (headed west to pursue Dong Zhuo) - (6,132)
+			Zhang Fei - - (6,131)
+			Zhang Yang - Governor of Shangdang - (5,115)			
+
+190/4/(shortly thereafter)
+	Road from Luoyang to Changan
+		"Then, he and his six generals---Xiahou Dun, Xiahou Yuan, Cao Ren, Cao Hong, Li Dian, and Yue Jing---and ten thousand troops started in pursuit." - (6,132)
+			Cao Cao - - (6,132)
+			Cao Hong - Cao Cao's cousin - (6,132)
+			Cao Ren - Cao Cao's cousin - (6,132)
+			Li Dian - Cao Cao's General - (6,132)
+			Xiahou Dun - Cao Cao's General - (6,132)
+			Xiahou Yuan - Cao Cao's General - (6,132)
+			Yue Jing - Cao Cao's General - (6,132)
+
+190/4/?
+	Yingyang - (east [see note in next mention of Yingyang] of Han Gu Pass / Huangu Pass) - https://en.wikipedia.org/wiki/Hangu_Pass
+		"The road to the new capital led through Yingyang. When Dong Zhuo reached it, Governor Xu Rong went to welcome the cavalcade." - (6,132)
+		"Li Ru said," - (6,132)
+		"Then Dong Zhuo ordered Lu Bu to command the rear guard." - (6,132)
+			Dong Zhuo - (assumed continued on through Huangu Pass) - (6,132)
+			Guo Si - Dong Zhuo's commander - (6,131)
+			Huang Wan - Grand Commander - (6,129)
+			Li Jue - Dong Zhuo's commander - (6,131)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (6,132)
+			Lu Bu - - (6,132)
+			Xu Rong - Govenor of Yingyang - (6,132)
+			
+190/4/?
+	Huangu Pass - (aka Han Gu Pass)
+		"Then Dong Zhuo ordered Lu Bu to command the rear guard." - (6,132)
+		"Very soon they saw Cao Cao coming up" - (6,132)
+		"The combat had hardly begun when Li Ru with a cohort came in from the left." - (6,133)
+		"However, on the other side appeared Guo Si and his company" - (6,133)
+			Cao Cao - - (6,132)
+			Cao Hong - Cao Cao's cousin - (6,132)
+			Cao Ren - Cao Cao's cousin - (6,132)
+			Guo Si - Dong Zhuo's commander - (6,133)
+			Li Dian - Cao Cao's General - (6,132)
+			Li Ru - Dong Zhuo's Advisor and son-in-law - (6,133)
+			Lu Bu - - (6,132)
+			Xiahou Dun - Cao Cao's General - (6,132)
+			Xiahou Yuan - Cao Cao's General - (6,132)
+			Yue Jing - Cao Cao's General - (6,132)
+
+190/4/(shortly thereafter)
+	Between Huangu Pass and Yingyang - (UNKNOWN)
+		"The beaten army of Cao Cao turned toward Yingyang." - (6,133)
+			NOTE: Lu Bu would have defended Huangu Pass from an eastern attack by Cao Cao. This indicates that Cao Cao had passed through/by Yingyang
+				to the pass and his retreat would be to the east.
+		"there arose a great noise of shouting on all sides and out came the troops of Governor Xu Rong from the ambush fresh to attack." - (6,133)
+		"Just then a horseman came, riding at full speed and whirling his sword up, cut down both the captors, and rescued Cao Cao. It was Cao Hong." - (6,134)
+			Cao Cao - - (6,133)
+			Cao Hong - Cao Cao's cousin - (6,134)
+			Cao Ren - Cao Cao's cousin - (6,132)
+			Li Dian - Cao Cao's General - (6,132)
+			Xiahou Dun - Cao Cao's General - (6,132)
+			Xiahou Yuan - Cao Cao's General - (6,132)
+			Yue Jing - Cao Cao's General - (6,132)
+			Xu Rong - Govenor of Yingyang - (6,133)
+	
+190/4/(shortly thereafter) - 3AM - 6AM
+	Stream near Huangu Pass and Yingyang - (UNKNOWN)
+		"Thus they proceeded till the fourth watch when they saw before them a broad stream, 
+			and behind they still heard the shouts of pursuers drawing nearer and nearer." - (6,135)
+			Cao Cao - - (6,135)
+			Cao Hong - Cao Cao's cousin - (6,135)
+
+190/4/(shortly thereafter) - 5AM - 6AM
+	10 miles from stream - (UNKNOWN)
+		"Dawn was near. They went on another ten miles and then sat down to rest under a precipice.
+			Suddenly loud shouting was heard and a party of horse appeared. It was Governor Xu Rong who had forded the river higher up." - (6,135-136)
+		"Just at this moment Xiahou Dun and Xiahou Yuan, with several dozens men, came along." - (6,136)
+		"Before long Cao Cao’s other generals arrived." - (6,136)
+		"They gathered together the few hundreds of soldiers left and then returned to Luoyang." - (6,136)
+			Cao Cao - (return to Luoyang) - (6,136)
+			Cao Hong - Cao Cao's cousin (return to Luoyang) - (6,136)
+			Cao Ren - Cao Cao's cousin (return to Luoyang) - (6,132)
+			Li Dian - Cao Cao's General (return to Luoyang) - (6,132)
+			Xiahou Dun - Cao Cao's General (return to Luoyang) - (6,136)
+			Xiahou Yuan - Cao Cao's General (return to Luoyang) - (6,136)
+			Yue Jing - Cao Cao's General (return to Luoyang) - (6,132)
+			Xu Rong - Govenor of Yingyang (killed by Xiahou Dun) - (6,136)
+
+190/4/?
+	Luoyang
+		"Quickly go home to Changsha, south of the Great River" - (6,139)
+		"said Sun Jian. “Tomorrow I will make an excuse that I am unwell and get away.”" - (6,139)
+		"Yuan Shao laughed, saying, “I know what you are suffering from: It is called the Imperial Hereditary Seal!”" - (6,139)
+		"Behind Sun Jian, Generals Cheng Pu, Huang Gai, and Han Dang stepped forth; behind Yuan Shao, Generals Yan
+			Liang and Wen Chou were ready to act." - (6,140)
+		"Soon he broke up his camp and marched to his own place." - (6,140)
+			Cheng Pu - Sun Jian's General (left for Changsha) - (6,139)
+			Han Dang - Sun Jian's General (left for Changsha) - (6,140)
+			Huang Gai - Sun Jian's General (left for Changsha) - (6,140)
+			Sun Jian - (left for Changsha) - (6,140)
+			Wen Chou - Yuan Shao's General - (6,140)
+			Yan Liang - Yuan Shao's General - (6,140)
+			Yuan Shao - - (6,139)
+	
+190/4/?
+	Xiang Yang - (Capital of Jingzhou Region / NE of Mt. Jing / SW of Jing Zhou - Nan Yang - Wan Cheng)
+		"He wrote to Jingzhou Region and sent the letter by a trusty hand to tell Imperial Protector Liu Biao to stop Sun Jian" - (6,140)
+			Liu Biao - Imperial Protector - (6,140)
+
+190/4/?
+	Luoyang			
+		"Just after this came the news of the defeat and misfortune of Cao Cao, and when he was coming home, 
+			Yuan Shao sent out to welcome him and conduct him into camp." - (6,140)
+		"So he led off his force to Yanzhou Region." - (6,141)
+		"Then Gongsun Zan said to Liu Bei, “This Yuan Shao is an incapable, and things will turns chaotic. We had better go too.”
+			So he broke camp and went north." - (6,141)
+			Cao Cao - (left for Yanzhou Region) - (6,140)
+			Cao Hong - Cao Cao's cousin (left for Yanzhou Region) - (6,136)
+			Cao Ren - Cao Cao's cousin (left for Yanzhou Region) - (6,132)
+			Li Dian - Cao Cao's General (left for Yanzhou Region) - (6,132)
+			Xiahou Dun - Cao Cao's General (left for Yanzhou Region) - (6,136)
+			Xiahou Yuan - Cao Cao's General (left for Yanzhou Region) - (6,136)
+			Yuan Shao - - (6,140)
+			Yue Jing - Cao Cao's General (left for Yanzhou Region) - (6,132)
+			
+190/4/(sometime later)
+	Pingyuan
+		"At Pingyuan he left Liu Bei in command and went to strengthen his own position and refresh his troops." - (6,141)
+			Gongsun Zan - (departed for ? - likely Beiping [Beijing]) - (6,141)
+			Guan Yu - - (6,131)
+			Liu Bei - - (6,141)
+			Zhang Fei - - (6,131)
+			
+190/4/?
+	Luoyang - (inferred, perhaps incorrectly?)
+		"The Imperial Protector of Yanzhou, Liu Dai, wished to borrow grain of the Governor of Dongjun, Qiao Mao" - (6,141)
+			Liu Dai - Protector of Yanzhou - (6,141)
+			Qiao Mao - Governor of Dongjun (killed by Liu Dai) - (6,141)
+			
+190/4/?
+	Luoyang
+		"Yuan Shao seeing the confederacy breaking up also marched away and went east." - (6,141)
+			Yuan Shao - (marched eastward to ?) - (6,141)
+			
+190/4/?
+	Jingzhou Region
+		"On the way home, Sun Jian was passing through Jingzhou Region." - (6,141)
+			Cheng Pu - Sun Jian's General - (6,139)
+			Han Dang - Sun Jian's General - (6,140)
+			Huang Gai - Sun Jian's General - (6,140)
+			Sun Jian - - (6,141)
+			
+	Xiang Yang - (Capital of Jingzhou Region / NE of Mt. Jing / SW of Jing Zhou - Nan Yang - Wan Cheng)
+		"The Imperial Protector of Jingzhou, Liu Biao," - (6,141)
+		"he and his companions were called the Eight Wise Ones. The other seven were:" - (6,142)
+		"He had three famous persons who helped him in the government of his region.
+			They were Kuai Liang and Kuai Yue from Yanping, and Cai Mao from Xiangyang." - (6,142)
+			Cai Mao - Liu Biao's General from Xiangyang - (6,142)
+			Cen Zhi - "Eight Wise One" from Nanyang - (6,142)
+			Chen Xiang - "Eight Wise One" from Runan - (6,142)
+			Fan Kang - "Eight Wise One" from Bohai - (6,142)
+			Fan Pang - "Eight Wise One" from Runan - (6,142)
+			Kong Yu - from Luting - (6,142)
+			Kuai Liang - from Yanping - (6,142)
+			Kuai Yue - Liu Biao's General, "Eight Wise One" from Yanping - (6,142)
+			Liu Biao - Imperial Protector, "Eight Wise One" - (6,140)
+			Tan Fu - "Eight Wise One" from Shanyang - (6,142)
+			Zhang Jian - "Eight Wise One" from Shanyang - (6,142)
+
+190/4/?
+	Jingzhou Region - (UNKNOWN)	
+		"When Yuan Shao’s letter detailing the fault of Sun Jian arrived, Liu Biao ordered Kuai Yue and Cai Mao with ten thousand soldiers to bar the way" - (6,142)
+		"When Sun Jian drew near, the force was arranged in fighting order and the leaders were in the front." - (142)
+			Cai Mao - Liu Biao's General from Xiangyang - (6,142)
+			Cheng Pu - Sun Jian's General - (6,139)
+			Han Dang - Sun Jian's General - (6,140)
+			Huang Gai - Sun Jian's General - (6,140)
+			Kuai Yue - Liu Biao's General, "Eight Wise One" from Yanping - (6,142)
+			Sun Jian - - (6,141)
